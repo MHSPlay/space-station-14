@@ -28,31 +28,31 @@
 
 # Back
 - type: loadout
-  id: AtmosphericTechnicianBackpack
-  equipment: AtmosphericTechnicianBackpack
+  id: StationEngineerBackpack
+  equipment: StationEngineerBackpack
 
 - type: startingGear
-  id: AtmosphericTechnicianBackpack
+  id: StationEngineerBackpack
   equipment:
-    back: ClothingBackpackAtmosphericsFilled
+    back: ClothingBackpackEngineeringFilled
 
 - type: loadout
-  id: AtmosphericTechnicianSatchel
-  equipment: AtmosphericTechnicianSatchel
+  id: StationEngineerSatchel
+  equipment: StationEngineerSatchel
 
 - type: startingGear
-  id: AtmosphericTechnicianSatchel
+  id: StationEngineerSatchel
   equipment:
-    back: ClothingBackpackSatchelAtmosphericsFilled
+    back: ClothingBackpackSatchelEngineeringFilled
 
 - type: loadout
-  id: AtmosphericTechnicianDuffel
-  equipment: AtmosphericTechnicianDuffel
+  id: StationEngineerDuffel
+  equipment: StationEngineerDuffel
 
 - type: startingGear
-  id: AtmosphericTechnicianDuffel
+  id: StationEngineerDuffel
   equipment:
-    back: ClothingBackpackDuffelAtmosphericsFilled
+    back: ClothingBackpackDuffelEngineeringFilled
 
 # OuterClothing
 - type: loadout

@@ -3,7 +3,7 @@
   startingInventory:
     ClothingBackpackDuffelAtmospherics: 2
     ClothingBackpackSatchelAtmospherics: 2
-    ClothingBackpackAtmospherics: 2
+    #ClothingBackpackAtmospherics: 2
     ClothingUniformJumpsuitAtmos: 3
     ClothingUniformJumpskirtAtmos: 3
     ClothingUniformJumpsuitAtmosCasual: 3

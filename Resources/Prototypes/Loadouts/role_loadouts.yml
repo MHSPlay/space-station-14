@@ -209,7 +209,7 @@
   id: JobAtmosphericTechnician
   groups:
   - AtmosphericTechnicianJumpsuit
-  - AtmosphericTechnicianBackpack
+  - StationEngineerBackpack
   - AtmosphericTechnicianOuterClothing
   - AtmosphericTechnicianShoes
   - Trinkets

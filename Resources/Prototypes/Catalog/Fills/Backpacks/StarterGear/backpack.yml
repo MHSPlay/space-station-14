@@ -157,14 +157,14 @@
     contents:
       - id: BoxSurvivalEngineering
 
-- type: entity
-  noSpawn: true
-  parent: ClothingBackpackAtmospherics
-  id: ClothingBackpackAtmosphericsFilled
-  components:
-  - type: StorageFill
-    contents:
-      - id: BoxSurvivalEngineering
+#- type: entity
+#  noSpawn: true
+#  parent: ClothingBackpackAtmospherics
+#  id: ClothingBackpackAtmosphericsFilled
+#  components:
+#  - type: StorageFill
+#    contents:
+#      - id: BoxSurvivalEngineering
 
 - type: entity
   noSpawn: true
@@ -213,7 +213,7 @@
       - id: BoxSurvival
       - id: Bible
       - id: RubberStampChaplain
-  
+
 - type: entity
   noSpawn: true
   parent: ClothingBackpack

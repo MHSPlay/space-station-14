@@ -110,33 +110,33 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtSeniorEngineer
 
-# Back
-- type: loadout
-  id: StationEngineerBackpack
-  equipment: StationEngineerBackpack
-
-- type: startingGear
-  id: StationEngineerBackpack
-  equipment:
-    back: ClothingBackpackEngineeringFilled
-
-- type: loadout
-  id: StationEngineerSatchel
-  equipment: StationEngineerSatchel
-
-- type: startingGear
-  id: StationEngineerSatchel
-  equipment:
-    back: ClothingBackpackSatchelEngineeringFilled
-
-- type: loadout
-  id: StationEngineerDuffel
-  equipment: StationEngineerDuffel
-
-- type: startingGear
-  id: StationEngineerDuffel
-  equipment:
-    back: ClothingBackpackDuffelEngineeringFilled
+# Back - from TG
+#- type: loadout
+#  id: StationEngineerBackpack
+#  equipment: StationEngineerBackpack
+#
+#- type: startingGear
+#  id: StationEngineerBackpack
+#  equipment:
+#    back: ClothingBackpackEngineeringFilled
+#
+#- type: loadout
+#  id: StationEngineerSatchel
+#  equipment: StationEngineerSatchel
+#
+#- type: startingGear
+#  id: StationEngineerSatchel
+#  equipment:
+#    back: ClothingBackpackSatchelEngineeringFilled
+#
+#- type: loadout
+#  id: StationEngineerDuffel
+#  equipment: StationEngineerDuffel
+#
+#- type: startingGear
+#  id: StationEngineerDuffel
+#  equipment:
+#    back: ClothingBackpackDuffelEngineeringFilled
 
 # OuterClothing
 - type: loadout
@@ -147,7 +147,7 @@
   id: StationEngineerOuterVest
   equipment:
     outerClothing: ClothingOuterVestHazard
-  
+
 - type: loadout
   id: StationEngineerWintercoat
   equipment: StationEngineerWintercoat
@@ -156,7 +156,7 @@
   id: StationEngineerWintercoat
   equipment:
     outerClothing: ClothingOuterWinterEngi
-  
+
 # Shoes
 - type: loadout
   id: WorkBoots

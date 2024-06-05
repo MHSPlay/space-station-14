@@ -691,9 +691,9 @@
   id: AtmosphericTechnicianBackpack
   name: loadout-group-atmospheric-technician-backpack
   loadouts:
-  - AtmosphericTechnicianBackpack
-  - AtmosphericTechnicianSatchel
-  - AtmosphericTechnicianDuffel
+  - StationEngineerBackpack
+  - StationEngineerSatchel
+  - StationEngineerDuffel
 
 - type: loadoutGroup
   id: AtmosphericTechnicianShoes
