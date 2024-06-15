@@ -66,30 +66,12 @@
 
 - type: entity
   parent: ClothingBackpack
-  id: ClothingBackpackBrigmedic
-  name: brigmedic backpack
-  description: It's a very sterile backpack.
-  components:
-  - type: Sprite
-    sprite: Clothing/Back/Backpacks/brigmedic.rsi
-
-- type: entity
-  parent: ClothingBackpack
   id: ClothingBackpackEngineering
   name: engineering backpack
   description: It's a tough backpack for the daily grind of station life.
   components:
   - type: Sprite
     sprite: Clothing/Back/Backpacks/engineering.rsi
-
-#- type: entity
-#  parent: ClothingBackpack
-#  id: ClothingBackpackAtmospherics
-#  name: atmospherics backpack
-#  description: It's a backpack made of fire resistant fibers. Smells like plasma.
-#  components:
-#  - type: Sprite
-#    sprite: Clothing/Back/Backpacks/atmospherics.rsi
 
 - type: entity
   parent: ClothingBackpack
