@@ -282,7 +282,7 @@
   description: It's a backpack made by Jonk! Co.
   components:
   - type: Sprite
-    sprite: Clothing/Back/Backpacks/cluwne.rsi
+    sprite: Clothing/Back/Backpacks/clown.rsi
   - type: Unremoveable
     deleteOnDrop: false
 
