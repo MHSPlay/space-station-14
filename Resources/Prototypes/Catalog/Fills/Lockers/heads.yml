@@ -125,8 +125,6 @@
       - id: RubberStampApproved
       - id: BoxEncryptionKeyPassenger
       - id: BoxEncryptionKeyService
-      - id: ClothingBackpackIan
-        prob: 0.5
       - id: AccessConfigurator
 
 - type: entity

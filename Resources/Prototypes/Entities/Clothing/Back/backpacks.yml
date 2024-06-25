@@ -43,17 +43,17 @@
     storageOpenSound:
       collection: BikeHorn
 
-- type: entity
-  parent: ClothingBackpack
-  id: ClothingBackpackIan
-  name: Ian's backpack
-  description: Sometimes he wears it.
-  components:
-  - type: Sprite
-    sprite: Clothing/Back/Backpacks/ian.rsi
-  - type: Storage
-    storageOpenSound:
-      collection: IanBark
+#- type: entity
+#  parent: ClothingBackpack
+#  id: ClothingBackpackIan
+#  name: Ian's backpack
+#  description: Sometimes he wears it.
+#  components:
+#  - type: Sprite
+#    sprite: Clothing/Back/Backpacks/ian.rsi
+#  - type: Storage
+#    storageOpenSound:
+#      collection: IanBark
 
 - type: entity
   parent: ClothingBackpack
