@@ -480,13 +480,13 @@
   - QuartermasterTurtleneckSkirt
   - QuartermasterFormalSuit
 
-- type: loadoutGroup
-  id: QuartermasterBackpack
-  name: loadout-group-quartermaster-backpack
-  loadouts:
-  - QuartermasterBackpack
-  - QuartermasterSatchel
-  - QuartermasterDuffel
+#- type: loadoutGroup
+#  id: QuartermasterBackpack
+#  name: loadout-group-quartermaster-backpack
+#  loadouts:
+#  - QuartermasterBackpack
+#  - QuartermasterSatchel
+#  - QuartermasterDuffel
 
 - type: loadoutGroup
   id: QuartermasterNeck

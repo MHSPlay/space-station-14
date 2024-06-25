@@ -1,7 +1,7 @@
 - type: vendingMachineInventory
   id: CargoDrobeInventory
   startingInventory:
-    ClothingBackpackCargo: 3
+    #ClothingBackpackCargo: 3
     ClothingBackpackSatchelCargo: 3
     ClothingBackpackDuffelCargo: 3
     ClothingUniformJumpsuitCargo: 3

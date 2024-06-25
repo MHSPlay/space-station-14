@@ -350,7 +350,7 @@
     shoes: ClothingShoesColorBlack
     head: ClothingHeadHatCargosoft
     id: CargoPDA
-    back: ClothingBackpackCargo
+    back: ClothingBackpackFilled
     ears: ClothingHeadsetCargo
     pocket1: AppraisalTool
 

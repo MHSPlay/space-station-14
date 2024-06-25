@@ -145,14 +145,14 @@
   - type: Sprite
     sprite: Clothing/Back/Backpacks/genetics.rsi
 
-- type: entity
-  parent: ClothingBackpack
-  id: ClothingBackpackCargo
-  name: cargo backpack
-  description: A robust backpack for stealing cargo's loot.
-  components:
-    - type: Sprite
-      sprite: Clothing/Back/Backpacks/cargo.rsi
+#- type: entity
+#  parent: ClothingBackpack
+#  id: ClothingBackpackCargo
+#  name: cargo backpack
+#  description: A robust backpack for stealing cargo's loot.
+#  components:
+#    - type: Sprite
+#      sprite: Clothing/Back/Backpacks/cargo.rsi
 
 - type: entity
   parent: ClothingBackpack
@@ -162,15 +162,6 @@
   components:
     - type: Sprite
       sprite: Clothing/Back/Backpacks/salvage.rsi
-
-- type: entity
-  parent: ClothingBackpack
-  id: ClothingBackpackMerc
-  name: merc bag
-  description: A backpack that has been in many dangerous places, a reliable combat backpack.
-  components:
-    - type: Sprite
-      sprite: Clothing/Back/Backpacks/merc.rsi
 
 #ERT
 - type: entity
@@ -240,16 +231,16 @@
     sprite: Clothing/Back/Backpacks/ertchaplain.rsi
 
 #Syndicate
-- type: entity
-  parent: ClothingBackpack
-  id: ClothingBackpackSyndicate
-  name: syndicate backpack
-  description:
-  components:
-  - type: Sprite
-    sprite: Clothing/Back/Backpacks/syndicate.rsi
-  - type: ExplosionResistance
-    damageCoefficient: 0.1
+#- type: entity
+#  parent: ClothingBackpack
+#  id: ClothingBackpackSyndicate
+#  name: syndicate backpack
+#  description:
+#  components:
+#  - type: Sprite
+#    sprite: Clothing/Back/Backpacks/syndicate.rsi
+#  - type: ExplosionResistance
+#    damageCoefficient: 0.1
 
 #Special
 - type: entity

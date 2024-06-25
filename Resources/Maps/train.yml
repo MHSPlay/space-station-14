@@ -35811,14 +35811,6 @@ entities:
     - type: Transform
       pos: -11.520256,-161.46404
       parent: 2
-- proto: ClothingBackpackMerc
-  entities:
-  - uid: 9088
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: 17.53031,-143.53029
-      parent: 2
 - proto: ClothingBeltChampion
   entities:
   - uid: 98

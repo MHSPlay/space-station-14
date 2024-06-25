@@ -126,16 +126,16 @@
       - id: Flash
       #- id: TelescopicBaton
 
-- type: entity
-  noSpawn: true
-  parent: ClothingBackpackCargo
-  id: ClothingBackpackQuartermasterFilled
-  components:
-  - type: StorageFill
-    contents:
-      - id: BoxSurvival
-      - id: Flash
-      #- id: TelescopicBaton
+#- type: entity
+#  noSpawn: true
+#  parent: ClothingBackpackCargo
+#  id: ClothingBackpackQuartermasterFilled
+#  components:
+#  - type: StorageFill
+#    contents:
+#      - id: BoxSurvival
+#      - id: Flash
+#      #- id: TelescopicBaton
 
 - type: entity
   noSpawn: true
@@ -389,14 +389,14 @@
 
 # Cargo
 
-- type: entity
-  noSpawn: true
-  parent: ClothingBackpackCargo
-  id: ClothingBackpackCargoFilled
-  components:
-    - type: StorageFill
-      contents:
-        - id: BoxSurvival
+#- type: entity
+#  noSpawn: true
+#  parent: ClothingBackpackCargo
+#  id: ClothingBackpackCargoFilled
+#  components:
+#    - type: StorageFill
+#      contents:
+#        - id: BoxSurvival
 
 - type: entity
   noSpawn: true

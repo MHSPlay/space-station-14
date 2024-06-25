@@ -122,7 +122,7 @@
   name: uplink-sniper-bundle-name
   description: uplink-sniper-bundle-desc
   icon: { sprite: /Textures/Objects/Weapons/Guns/Snipers/heavy_sniper.rsi, state: base }
-  productEntity: BriefcaseSyndieSniperBundleFilled  
+  productEntity: BriefcaseSyndieSniperBundleFilled
   cost:
     Telecrystal: 12
   categories:
@@ -1004,7 +1004,7 @@
     Telecrystal: 6
   categories:
     - UplinkAllies
-  
+
 - type: listing
   id: UplinkSyndicatePersonalAI
   name: uplink-syndicate-pai-name
@@ -1334,15 +1334,15 @@
   categories:
   - UplinkWearables
 
-- type: listing
-  id: UplinkBackpackSyndicate
-  name: uplink-backpack-syndicate-name
-  description: uplink-backpack-syndicate-desc
-  productEntity: ClothingBackpackSyndicate
-  cost:
-    Telecrystal: 2
-  categories:
-    - UplinkWearables
+#- type: listing
+#  id: UplinkBackpackSyndicate
+#  name: uplink-backpack-syndicate-name
+#  description: uplink-backpack-syndicate-desc
+#  productEntity: ClothingBackpackSyndicate
+#  cost:
+#    Telecrystal: 2
+#  categories:
+#    - UplinkWearables
 
  # Pointless
 

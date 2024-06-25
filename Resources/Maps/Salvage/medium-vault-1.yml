@@ -650,13 +650,6 @@ entities:
     - type: Transform
       pos: -1.6170431,-2.424334
       parent: 222
-- proto: ClothingBackpackMerc
-  entities:
-  - uid: 20
-    components:
-    - type: Transform
-      pos: 0.5821538,-4.4794393
-      parent: 222
 - proto: ClothingBeltUtility
   entities:
   - uid: 196

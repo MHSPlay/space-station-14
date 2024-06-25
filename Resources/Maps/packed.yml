@@ -32205,13 +32205,6 @@ entities:
     - type: Transform
       pos: 27.493172,5.5327587
       parent: 2
-- proto: ClothingBackpackMerc
-  entities:
-  - uid: 12658
-    components:
-    - type: Transform
-      pos: 74.49778,21.835997
-      parent: 2
 - proto: ClothingBeltChampion
   entities:
   - uid: 12103
