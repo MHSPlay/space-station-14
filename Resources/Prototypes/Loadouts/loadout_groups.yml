@@ -106,7 +106,6 @@
   - HoPBackpack
   - HoPSatchel
   - HoPDuffel
-  - HoPBackpackIan
 
 - type: loadoutGroup
   id: HoPOuterClothing
