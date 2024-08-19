@@ -43,7 +43,6 @@ job-name-ertengineer = ERT Engineer
 job-name-ertsecurity = ERT Security
 job-name-ertmedic = ERT Medic
 job-name-ertjanitor = ERT Janitor
-job-name-boxer = Boxer
 job-name-zookeeper = Zookeeper
 job-name-visitor = Visitor
 
@@ -64,7 +63,6 @@ JobAtmosphericTechnician = Atmospheric Technician
 JobBartender = Bartender
 JobBorg = Borg
 JobBotanist = Botanist
-JobBoxer = Boxer
 JobCaptain = Captain
 JobCargoTechnician = Cargo Technician
 JobCentralCommandOfficial = Central Command Official

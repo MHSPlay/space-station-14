@@ -23,9 +23,6 @@
       "name": "botanist"
     },
     {
-      "name": "boxer"
-    },
-    {
       "name": "brigmedic"
     },
     {
@@ -170,7 +167,7 @@
       "name": "scientist"
     },
     {
-      "name": "security_cadet" 
+      "name": "security_cadet"
     },
     {
       "name": "security_officer"

@@ -39,14 +39,6 @@
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconBoxer
-  icon:
-    sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: Boxer
-  jobName: job-name-boxer
-
-- type: jobIcon
-  parent: JobIcon
   id: JobIconAtmosphericTechnician
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi

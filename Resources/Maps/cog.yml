@@ -149910,18 +149910,6 @@ entities:
     - type: Transform
       pos: 76.5,48.5
       parent: 12
-- proto: SpawnPointBoxer
-  entities:
-  - uid: 24260
-    components:
-    - type: Transform
-      pos: 11.5,47.5
-      parent: 12
-  - uid: 24261
-    components:
-    - type: Transform
-      pos: 15.5,51.5
-      parent: 12
 - proto: SpawnPointCaptain
   entities:
   - uid: 27323
