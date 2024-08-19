@@ -158578,13 +158578,6 @@ entities:
     - type: Transform
       pos: 50.5,-10.5
       parent: 2
-- proto: SpawnPointZookeeper
-  entities:
-  - uid: 20864
-    components:
-    - type: Transform
-      pos: -19.5,-3.5
-      parent: 2
 - proto: SprayBottleSpaceCleaner
   entities:
   - uid: 3068
@@ -160187,14 +160180,6 @@ entities:
       parent: 2
     - type: SurveillanceCamera
       id: Chapel
-  - uid: 20945
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -20.5,-2.5
-      parent: 2
-    - type: SurveillanceCamera
-      id: Zookeeper's
   - uid: 20947
     components:
     - type: Transform

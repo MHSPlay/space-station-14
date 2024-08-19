@@ -383,14 +383,6 @@
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconZookeeper
-  icon:
-    sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: Zookeeper
-  jobName: job-name-zookeeper
-
-- type: jobIcon
-  parent: JobIcon
   id: JobIconSeniorPhysician
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi
