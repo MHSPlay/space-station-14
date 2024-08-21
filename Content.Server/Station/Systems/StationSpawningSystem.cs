@@ -8,6 +8,8 @@ using Content.Server.PDA;
 using Content.Server.Shuttles.Systems;
 using Content.Server.Spawners.EntitySystems;
 using Content.Server.Station.Components;
+using Content.Shared._TG.Economy;
+using Content.Shared._TG.Economy.Events;
 using Content.Shared.Access.Components;
 using Content.Shared.Access.Systems;
 using Content.Shared.CCVar;
@@ -24,6 +26,7 @@ using Content.Shared.Roles.Jobs;
 using Content.Shared.Station;
 using Content.Shared.StatusIcon;
 using JetBrains.Annotations;
+using Robust.Server.Player;
 using Robust.Shared.Configuration;
 using Robust.Shared.Map;
 using Robust.Shared.Prototypes;
@@ -48,6 +51,7 @@ public sealed class StationSpawningSystem : SharedStationSpawningSystem
     [Dependency] private readonly SharedAccessSystem _accessSystem = default!;
     [Dependency] private readonly IdentitySystem _identity = default!;
     [Dependency] private readonly MetaDataSystem _metaSystem = default!;
+    [Dependency] private readonly IPlayerManager _playerManager = default!;
 
     [Dependency] private readonly ArrivalsSystem _arrivalsSystem = default!;
     [Dependency] private readonly ContainerSpawnPointSystem _containerSpawnPointSystem = default!;
@@ -205,6 +209,18 @@ public sealed class StationSpawningSystem : SharedStationSpawningSystem
 
         var gearEquippedEv = new StartingGearEquippedEvent(entity.Value);
         RaiseLocalEvent(entity.Value, ref gearEquippedEv);
+
+
+        //TGStation 14: Load the bank component
+        var economy = EnsureComp<BankComponent>(entity.Value);
+        economy.Balance = _random.Next(1000, 5000);
+        economy.AccountId = _random.Next(111111, 999999);
+
+        if (_playerManager.TryGetSessionByEntity(entity.Value, out var player))
+        {
+            RaiseLocalEvent(new BalanceChangedEvent(economy.Balance, player));
+            RaiseLocalEvent(new BalanceChangedEvent(economy.AccountId, player)); //For Testing
+        }
 
         if (profile != null)
         {
