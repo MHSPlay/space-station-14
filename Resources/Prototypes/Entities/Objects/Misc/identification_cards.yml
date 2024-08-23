@@ -41,18 +41,6 @@
 
 - type: entity
   parent: PassengerIDCard
-  id: MedicalInternIDCard
-  name: medical intern ID card
-  components:
-  - type: PresetIdCard
-    job: MedicalIntern
-  - type: Sprite
-    layers:
-    - state: default
-    - state: idintern-med
-
-- type: entity
-  parent: PassengerIDCard
   id: ResearchAssistantIDCard
   name: research assistant ID card
   components:

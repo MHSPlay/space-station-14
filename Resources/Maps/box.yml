@@ -142075,28 +142075,6 @@ entities:
     - type: Transform
       pos: 42.5,-28.5
       parent: 8364
-- proto: SpawnPointMedicalIntern
-  entities:
-  - uid: 5262
-    components:
-    - type: Transform
-      pos: 40.5,-27.5
-      parent: 8364
-  - uid: 5917
-    components:
-    - type: Transform
-      pos: 40.5,-28.5
-      parent: 8364
-  - uid: 18663
-    components:
-    - type: Transform
-      pos: 39.5,-28.5
-      parent: 8364
-  - uid: 18664
-    components:
-    - type: Transform
-      pos: 41.5,-28.5
-      parent: 8364
 - proto: SpawnPointMime
   entities:
   - uid: 10442

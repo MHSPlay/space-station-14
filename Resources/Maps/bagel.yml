@@ -128235,28 +128235,6 @@ entities:
     - type: Transform
       pos: 48.5,-10.5
       parent: 60
-- proto: SpawnPointMedicalIntern
-  entities:
-  - uid: 545
-    components:
-    - type: Transform
-      pos: 39.5,-17.5
-      parent: 60
-  - uid: 9039
-    components:
-    - type: Transform
-      pos: 38.5,-17.5
-      parent: 60
-  - uid: 13633
-    components:
-    - type: Transform
-      pos: 37.5,-17.5
-      parent: 60
-  - uid: 13638
-    components:
-    - type: Transform
-      pos: 36.5,-17.5
-      parent: 60
 - proto: SpawnPointMime
   entities:
   - uid: 24257

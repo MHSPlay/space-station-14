@@ -271,7 +271,6 @@
   id: JobResearchAssistant
   groups:
   - GroupTankHarness
-  - ResearchAssistantJumpsuit
   - ScientistBackpack
   - Glasses
   - Survival
@@ -377,17 +376,6 @@
   - MedicalDoctorOuterClothing
   - MedicalShoes
   - MedicalDoctorPDA
-  - Glasses
-  - SurvivalMedical
-  - Trinkets
-  - GroupSpeciesBreathToolMedical
-
-- type: roleLoadout
-  id: JobMedicalIntern
-  groups:
-  - GroupTankHarness
-  - MedicalInternJumpsuit
-  - MedicalBackpack
   - Glasses
   - SurvivalMedical
   - Trinkets

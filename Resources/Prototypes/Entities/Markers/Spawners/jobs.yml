@@ -90,18 +90,6 @@
       - state: passenger
 
 - type: entity
-  id: SpawnPointMedicalIntern
-  parent: SpawnPointJobBase
-  name: medical intern
-  components:
-  - type: SpawnPoint
-    job_id: MedicalIntern
-  - type: Sprite
-    layers:
-      - state: green
-      - state: medicalintern
-
-- type: entity
   id: SpawnPointSecurityCadet
   parent: SpawnPointJobBase
   name: security cadet

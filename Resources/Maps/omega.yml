@@ -66344,18 +66344,6 @@ entities:
     - type: Transform
       pos: -19.5,-22.5
       parent: 4812
-- proto: SpawnPointMedicalIntern
-  entities:
-  - uid: 7860
-    components:
-    - type: Transform
-      pos: -15.5,-22.5
-      parent: 4812
-  - uid: 8357
-    components:
-    - type: Transform
-      pos: -17.5,-22.5
-      parent: 4812
 - proto: SpawnPointMime
   entities:
   - uid: 1715

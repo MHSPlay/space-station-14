@@ -140,24 +140,6 @@
     borderColor: "#717059"
 
 - type: entity
-  parent: BaseMedicalPDA
-  id: MedicalInternPDA
-  name: medical intern PDA
-  description: Why isn't it white? Has a built-in health analyzer.
-  components:
-  - type: Pda
-    id: MedicalInternIDCard
-    state: pda-internmed
-  - type: PdaBorderColor
-    borderColor: "#717059"
-    accentVColor: "#447987"
-  - type: Icon
-    state: pda-internmed
-  - type: GuideHelp
-    guides:
-    - Medical Doctor
-
-- type: entity
   parent: BasePDA
   id: SecurityCadetPDA
   name: security cadet PDA

@@ -70122,18 +70122,6 @@ entities:
     - type: Transform
       pos: 71.5,7.5
       parent: 2
-- proto: SpawnPointMedicalIntern
-  entities:
-  - uid: 11961
-    components:
-    - type: Transform
-      pos: 73.5,5.5
-      parent: 2
-  - uid: 11962
-    components:
-    - type: Transform
-      pos: 73.5,6.5
-      parent: 2
 - proto: SpawnPointMime
   entities:
   - uid: 9610

@@ -41,7 +41,6 @@
   components:
   - type: Loadout
     prototypes:
-    - MedicalInternGear
     - PsychologistGear
     - ChemistGear
     - DoctorGear

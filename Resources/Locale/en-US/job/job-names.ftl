@@ -80,7 +80,6 @@ JobHeadOfSecurity = Head of Security
 JobJanitor = Janitor
 JobLawyer = Lawyer
 JobMedicalDoctor = Medical doctor
-JobMedicalIntern = Medical intern
 JobMime = Mime
 JobParamedic = Paramedic
 JobPassenger = Passenger

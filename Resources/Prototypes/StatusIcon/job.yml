@@ -319,14 +319,6 @@
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconMedicalIntern
-  icon:
-    sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: MedicalIntern
-  jobName: job-name-intern
-
-- type: jobIcon
-  parent: JobIcon
   id: JobIconSecurityCadet
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi

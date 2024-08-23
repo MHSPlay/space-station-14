@@ -32,7 +32,6 @@
             ChiefMedicalOfficer: [ 1, 1 ]
             Chemist: [ 2, 2 ]
             MedicalDoctor: [ 5, 5 ]
-            MedicalIntern: [ 3, 6 ]
             Paramedic: [ 1, 1 ]
             #science
             ResearchDirector: [ 1, 1 ]

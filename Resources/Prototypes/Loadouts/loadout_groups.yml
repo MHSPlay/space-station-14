@@ -842,13 +842,6 @@
   - ScientistPDA
   - SeniorResearcherPDA
 
-- type: loadoutGroup
-  id: ResearchAssistantJumpsuit
-  name: loadout-group-research-assistant-jumpsuit
-  loadouts:
-  - WhiteJumpsuit
-  - WhiteJumpskirt
-
 # Security
 - type: loadoutGroup
   id: HeadofSecurityHead
@@ -1131,13 +1124,6 @@
   minLimit: 0
   loadouts:
   - SterileMask
-
-- type: loadoutGroup
-  id: MedicalInternJumpsuit
-  name: loadout-group-medical-intern-jumpsuit
-  loadouts:
-  - WhiteJumpsuit
-  - WhiteJumpskirt
 
 - type: loadoutGroup
   id: ChemistJumpsuit

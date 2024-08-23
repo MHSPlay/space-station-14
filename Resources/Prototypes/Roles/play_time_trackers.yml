@@ -80,9 +80,6 @@
   id: JobMedicalDoctor
 
 - type: playTimeTracker
-  id: JobMedicalIntern
-
-- type: playTimeTracker
   id: JobMime
 
 - type: playTimeTracker

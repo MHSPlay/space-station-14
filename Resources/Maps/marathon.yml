@@ -115183,28 +115183,6 @@ entities:
     - type: Transform
       pos: -14.5,-19.5
       parent: 30
-- proto: SpawnPointMedicalIntern
-  entities:
-  - uid: 7037
-    components:
-    - type: Transform
-      pos: -14.5,-21.5
-      parent: 30
-  - uid: 7181
-    components:
-    - type: Transform
-      pos: -17.5,-21.5
-      parent: 30
-  - uid: 7182
-    components:
-    - type: Transform
-      pos: -16.5,-21.5
-      parent: 30
-  - uid: 7183
-    components:
-    - type: Transform
-      pos: -15.5,-21.5
-      parent: 30
 - proto: SpawnPointMime
   entities:
   - uid: 670
