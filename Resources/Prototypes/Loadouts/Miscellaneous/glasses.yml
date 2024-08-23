@@ -19,9 +19,6 @@
 # Jamjar
 - type: loadout
   id: GlassesJamjar
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: JamjarTimer
   equipment:
     eyes: ClothingEyesGlassesJamjar
 
