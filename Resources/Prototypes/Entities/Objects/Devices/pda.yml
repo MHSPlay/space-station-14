@@ -687,25 +687,6 @@
 
 - type: entity
   parent: BasePDA
-  id: MusicianPDA
-  name: musician PDA
-  description: It fills you with inspiration.
-  components:
-  - type: Pda
-    id: MusicianIDCard
-    state: pda-musician
-  - type: PdaBorderColor
-    borderColor: "#333333"
-  - type: Icon
-    state: pda-musician
-  - type: Instrument
-    allowPercussion: false
-    handheld: true
-    bank: 1
-    program: 2
-
-- type: entity
-  parent: BasePDA
   id: AtmosPDA
   name: atmos PDA
   description: Still smells like plasma.

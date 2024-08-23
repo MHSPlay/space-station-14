@@ -70141,13 +70141,6 @@ entities:
     - type: Transform
       pos: 25.5,7.5
       parent: 2
-- proto: SpawnPointMusician
-  entities:
-  - uid: 9355
-    components:
-    - type: Transform
-      pos: 20.5,-11.5
-      parent: 2
 - proto: SpawnPointObserver
   entities:
   - uid: 5419

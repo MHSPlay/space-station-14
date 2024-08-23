@@ -158187,28 +158187,6 @@ entities:
     - type: Transform
       pos: -25.5,-43.5
       parent: 2
-- proto: SpawnPointMusician
-  entities:
-  - uid: 10947
-    components:
-    - type: Transform
-      pos: -13.5,14.5
-      parent: 2
-  - uid: 24164
-    components:
-    - type: Transform
-      pos: 0.5,1.5
-      parent: 2
-  - uid: 28408
-    components:
-    - type: Transform
-      pos: -30.5,-44.5
-      parent: 2
-  - uid: 28409
-    components:
-    - type: Transform
-      pos: 26.5,17.5
-      parent: 2
 - proto: SpawnPointObserver
   entities:
   - uid: 18979

@@ -246,18 +246,6 @@
       - state: janitor
 
 - type: entity
-  id: SpawnPointMusician
-  parent: SpawnPointJobBase
-  name: musician
-  components:
-  - type: SpawnPoint
-    job_id: Musician
-  - type: Sprite
-    layers:
-      - state: green
-      - state: musician
-
-- type: entity
   id: SpawnPointBorg
   parent: SpawnPointJobBase
   name: cyborg

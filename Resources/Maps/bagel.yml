@@ -128264,13 +128264,6 @@ entities:
     - type: Transform
       pos: 25.5,-12.5
       parent: 60
-- proto: SpawnPointMusician
-  entities:
-  - uid: 11478
-    components:
-    - type: Transform
-      pos: 23.5,-12.5
-      parent: 60
 - proto: SpawnPointObserver
   entities:
   - uid: 2018

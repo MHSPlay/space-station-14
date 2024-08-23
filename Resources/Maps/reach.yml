@@ -13729,13 +13729,6 @@ entities:
     - type: Transform
       pos: 4.5,-2.5
       parent: 2
-- proto: SpawnPointMusician
-  entities:
-  - uid: 1993
-    components:
-    - type: Transform
-      pos: -4.5,-2.5
-      parent: 2
 - proto: SpawnPointObserver
   entities:
   - uid: 1994

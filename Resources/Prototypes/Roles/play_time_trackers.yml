@@ -86,9 +86,6 @@
   id: JobMime
 
 - type: playTimeTracker
-  id: JobMusician
-
-- type: playTimeTracker
   id: JobPassenger
 
 - type: playTimeTracker

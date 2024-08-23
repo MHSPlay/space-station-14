@@ -303,14 +303,6 @@
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconMusician
-  icon:
-    sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: Musician
-  jobName: job-name-musician
-
-- type: jobIcon
-  parent: JobIcon
   id: JobIconReporter
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi

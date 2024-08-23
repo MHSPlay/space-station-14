@@ -546,18 +546,6 @@
     - Maintenance
 
 - type: entity
-  parent: IDCardStandard
-  id: MusicianIDCard
-  name: musician ID card
-  components:
-    - type: Sprite
-      layers:
-        - state: default
-        - state: idmusician
-    - type: PresetIdCard
-      job: Musician
-
-- type: entity
   parent: CentcomIDCard
   id: CentcomIDCardDeathsquad
   name: death squad ID card

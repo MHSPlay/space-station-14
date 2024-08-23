@@ -66363,13 +66363,6 @@ entities:
     - type: Transform
       pos: -9.5,0.5
       parent: 4812
-- proto: SpawnPointMusician
-  entities:
-  - uid: 1722
-    components:
-    - type: Transform
-      pos: -9.5,-0.5
-      parent: 4812
 - proto: SpawnPointObserver
   entities:
   - uid: 5059

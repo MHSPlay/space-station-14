@@ -161,19 +161,6 @@
   - Survival
   - Trinkets
 
-- type: roleLoadout
-  id: JobMusician
-  groups:
-  - GroupTankHarness
-  - MusicianJumpsuit
-  - CommonBackpack
-  - MusicianOuterClothing
-  - Glasses
-  - Survival
-  - Trinkets
-  - Instruments
-  - GroupSpeciesBreathTool
-
 # Cargo
 - type: roleLoadout
   id: JobQuartermaster
