@@ -143,14 +143,6 @@
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconLibrarian
-  icon:
-    sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: Librarian
-  jobName: job-name-librarian
-
-- type: jobIcon
-  parent: JobIcon
   id: JobIconCargoTechnician
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi

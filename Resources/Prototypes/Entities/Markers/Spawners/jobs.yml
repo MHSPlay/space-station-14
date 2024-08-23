@@ -222,18 +222,6 @@
       - state: chaplain
 
 - type: entity
-  id: SpawnPointLibrarian
-  parent: SpawnPointJobBase
-  name: librarian
-  components:
-  - type: SpawnPoint
-    job_id: Librarian
-  - type: Sprite
-    layers:
-      - state: green
-      - state: librarian
-
-- type: entity
   id: SpawnPointLawyer
   parent: SpawnPointJobBase
   name: lawyer

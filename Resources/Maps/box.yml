@@ -142053,13 +142053,6 @@ entities:
     - type: Transform
       pos: -11.5,14.5
       parent: 8364
-- proto: SpawnPointLibrarian
-  entities:
-  - uid: 10863
-    components:
-    - type: Transform
-      pos: 62.5,-6.5
-      parent: 8364
 - proto: SpawnPointMedicalDoctor
   entities:
   - uid: 18396

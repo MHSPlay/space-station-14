@@ -81,17 +81,6 @@
   - GroupSpeciesBreathTool
 
 - type: roleLoadout
-  id: JobLibrarian
-  groups:
-  - GroupTankHarness
-  - LibrarianJumpsuit
-  - CommonBackpack
-  - Glasses
-  - Survival
-  - Trinkets
-  - GroupSpeciesBreathTool
-
-- type: roleLoadout
   id: JobLawyer
   groups:
   - GroupTankHarness

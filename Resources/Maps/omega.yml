@@ -66327,13 +66327,6 @@ entities:
     - type: Transform
       pos: -17.5,16.5
       parent: 4812
-- proto: SpawnPointLibrarian
-  entities:
-  - uid: 7634
-    components:
-    - type: Transform
-      pos: -31.5,-22.5
-      parent: 4812
 - proto: SpawnPointMedicalDoctor
   entities:
   - uid: 8358

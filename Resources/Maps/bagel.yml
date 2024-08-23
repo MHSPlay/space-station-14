@@ -128213,13 +128213,6 @@ entities:
     - type: Transform
       pos: -49.5,-20.5
       parent: 60
-- proto: SpawnPointLibrarian
-  entities:
-  - uid: 14641
-    components:
-    - type: Transform
-      pos: -7.5,24.5
-      parent: 60
 - proto: SpawnPointMedicalDoctor
   entities:
   - uid: 773

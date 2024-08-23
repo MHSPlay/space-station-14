@@ -89189,13 +89189,6 @@ entities:
     - type: Transform
       pos: -4.5,-71.5
       parent: 2
-- proto: SpawnPointLibrarian
-  entities:
-  - uid: 13353
-    components:
-    - type: Transform
-      pos: -5.5,-135.5
-      parent: 2
 - proto: SpawnPointMedicalDoctor
   entities:
   - uid: 13354

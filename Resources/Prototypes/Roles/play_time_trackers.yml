@@ -77,9 +77,6 @@
   id: JobLawyer
 
 - type: playTimeTracker
-  id: JobLibrarian
-
-- type: playTimeTracker
   id: JobMedicalDoctor
 
 - type: playTimeTracker

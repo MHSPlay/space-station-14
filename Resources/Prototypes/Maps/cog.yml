@@ -26,7 +26,6 @@
             Janitor: [ 3, 3 ]
             Chaplain: [ 1, 1 ]
             Reporter: [ 2, 2 ]
-            #Librarian: [ 1, 1 ] no library :c
             ServiceWorker: [ 3, 3 ]
             #engineering
             ChiefEngineer: [ 1, 1 ]

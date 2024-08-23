@@ -1,14 +1,5 @@
 # Timers
 - type: loadoutEffectGroup
-  id: JamjarTimer
-  effects:
-  - !type:JobRequirementLoadoutEffect
-    requirement:
-      !type:RoleTimeRequirement
-      role: JobLibrarian
-      time: 3600 # 1 hour of being the biggest nerd on the station
-
-- type: loadoutEffectGroup
   id: JensenTimer
   effects:
   - !type:JobRequirementLoadoutEffect
@@ -26,7 +17,7 @@
 
 # Special options
 # Jamjar
-- type: loadout
+- type: loadout # FAIL: TestFailed idk why
   id: GlassesJamjar
   effects:
   - !type:GroupLoadoutEffect
