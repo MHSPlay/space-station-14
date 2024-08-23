@@ -42,7 +42,6 @@ job-name-ertengineer = ERT Engineer
 job-name-ertsecurity = ERT Security
 job-name-ertmedic = ERT Medic
 job-name-ertjanitor = ERT Janitor
-job-name-visitor = Visitor
 
 # unused jobs
 # these are required for the agent ID job icon tooltips
@@ -100,5 +99,4 @@ JobSecurityOfficer = Security Officer
 JobServiceWorker = Service Worker
 JobStationEngineer = Station Engineer
 JobTechnicalAssistant = Technical Assistant
-JobVisitor = Visitor
 JobWarden = Warden
