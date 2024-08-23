@@ -122,7 +122,4 @@
   id: JobStationEngineer
 
 - type: playTimeTracker
-  id: JobTechnicalAssistant
-
-- type: playTimeTracker
   id: JobWarden

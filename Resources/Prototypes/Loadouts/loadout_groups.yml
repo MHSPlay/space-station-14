@@ -645,13 +645,6 @@
   - EngineeringWinterBoots
 
 - type: loadoutGroup
-  id: TechnicalAssistantJumpsuit
-  name: loadout-group-technical-assistant-jumpsuit
-  loadouts:
-  - YellowJumpsuit
-  - YellowJumpskirt
-
-- type: loadoutGroup
   id: StationEngineerHead
   name: loadout-group-station-engineer-head
   loadouts:

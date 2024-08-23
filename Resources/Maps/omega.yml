@@ -66483,13 +66483,6 @@ entities:
     - type: Transform
       pos: -30.5,-8.5
       parent: 4812
-- proto: SpawnPointTechnicalAssistant
-  entities:
-  - uid: 10903
-    components:
-    - type: Transform
-      pos: -29.5,-7.5
-      parent: 4812
 - proto: SpawnPointWarden
   entities:
   - uid: 8336

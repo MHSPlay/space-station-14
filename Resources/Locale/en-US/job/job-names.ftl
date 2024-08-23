@@ -94,5 +94,4 @@ JobScientist = Scientist
 JobSecurityCadet = Security Cadet
 JobSecurityOfficer = Security Officer
 JobStationEngineer = Station Engineer
-JobTechnicalAssistant = Technical Assistant
 JobWarden = Warden

@@ -327,14 +327,6 @@
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconTechnicalAssistant
-  icon:
-    sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: TechnicalAssistant
-  jobName: job-name-technical-assistant
-
-- type: jobIcon
-  parent: JobIcon
   id: JobIconSecurityCadet
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi

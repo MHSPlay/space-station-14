@@ -208,16 +208,6 @@
   - GroupSpeciesBreathTool
 
 - type: roleLoadout
-  id: JobTechnicalAssistant
-  groups:
-  - GroupTankHarness
-  - TechnicalAssistantJumpsuit
-  - StationEngineerBackpack
-  - SurvivalExtended
-  - Trinkets
-  - GroupSpeciesBreathTool
-
-- type: roleLoadout
   id: JobStationEngineer
   groups:
   - GroupTankHarness

@@ -58037,18 +58037,6 @@ entities:
     - type: Transform
       pos: 31.5,-1.5
       parent: 31
-- proto: SpawnPointTechnicalAssistant
-  entities:
-  - uid: 9103
-    components:
-    - type: Transform
-      pos: 32.5,-0.5
-      parent: 31
-  - uid: 9104
-    components:
-    - type: Transform
-      pos: 33.5,-0.5
-      parent: 31
 - proto: SpawnPointWarden
   entities:
   - uid: 3145

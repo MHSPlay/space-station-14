@@ -89384,23 +89384,6 @@ entities:
     - type: Transform
       pos: 4.5,-253.5
       parent: 2
-- proto: SpawnPointTechnicalAssistant
-  entities:
-  - uid: 13390
-    components:
-    - type: Transform
-      pos: -2.5,-249.5
-      parent: 2
-  - uid: 13391
-    components:
-    - type: Transform
-      pos: 1.5,-247.5
-      parent: 2
-  - uid: 13392
-    components:
-    - type: Transform
-      pos: -2.5,-250.5
-      parent: 2
 - proto: SpawnPointWarden
   entities:
   - uid: 13393

@@ -90,18 +90,6 @@
       - state: passenger
 
 - type: entity
-  id: SpawnPointTechnicalAssistant
-  parent: SpawnPointJobBase
-  name: technical assistant
-  components:
-  - type: SpawnPoint
-    job_id: TechnicalAssistant
-  - type: Sprite
-    layers:
-      - state: green
-      - state: technicalassistant
-
-- type: entity
   id: SpawnPointMedicalIntern
   parent: SpawnPointJobBase
   name: medical intern

@@ -21,7 +21,6 @@
   components:
   - type: Loadout
     prototypes:
-    - TechnicalAssistantGear
     - AtmosphericTechnicianGear
     - StationEngineerGear
 

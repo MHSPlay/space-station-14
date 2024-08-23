@@ -54,7 +54,6 @@
   - AtmosphericTechnician
   - ChiefEngineer
   - StationEngineer
-  - TechnicalAssistant
 
 - type: department
   id: Medical

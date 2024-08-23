@@ -142303,38 +142303,6 @@ entities:
     - type: Transform
       pos: 5.5,-56.5
       parent: 8364
-- proto: SpawnPointTechnicalAssistant
-  entities:
-  - uid: 114
-    components:
-    - type: Transform
-      pos: 7.5,-54.5
-      parent: 8364
-  - uid: 4581
-    components:
-    - type: Transform
-      pos: 7.5,-63.5
-      parent: 8364
-  - uid: 16726
-    components:
-    - type: Transform
-      pos: 7.5,-62.5
-      parent: 8364
-  - uid: 22752
-    components:
-    - type: Transform
-      pos: 7.5,-57.5
-      parent: 8364
-  - uid: 23152
-    components:
-    - type: Transform
-      pos: 7.5,-56.5
-      parent: 8364
-  - uid: 23160
-    components:
-    - type: Transform
-      pos: 7.5,-55.5
-      parent: 8364
 - proto: SpawnPointWarden
   entities:
   - uid: 9427
