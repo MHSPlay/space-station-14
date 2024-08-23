@@ -142132,28 +142132,6 @@ entities:
     - type: Transform
       pos: -32.5,-26.5
       parent: 8364
-- proto: SpawnPointResearchAssistant
-  entities:
-  - uid: 18629
-    components:
-    - type: Transform
-      pos: 73.5,-29.5
-      parent: 8364
-  - uid: 18636
-    components:
-    - type: Transform
-      pos: 70.5,-29.5
-      parent: 8364
-  - uid: 18637
-    components:
-    - type: Transform
-      pos: 70.5,-28.5
-      parent: 8364
-  - uid: 26600
-    components:
-    - type: Transform
-      pos: 73.5,-27.5
-      parent: 8364
 - proto: SpawnPointResearchDirector
   entities:
   - uid: 21314

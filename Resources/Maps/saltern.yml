@@ -57926,18 +57926,6 @@ entities:
     - type: Transform
       pos: 27.5,9.5
       parent: 31
-- proto: SpawnPointResearchAssistant
-  entities:
-  - uid: 10526
-    components:
-    - type: Transform
-      pos: -9.5,-19.5
-      parent: 31
-  - uid: 10527
-    components:
-    - type: Transform
-      pos: -8.5,-19.5
-      parent: 31
 - proto: SpawnPointResearchDirector
   entities:
   - uid: 3385

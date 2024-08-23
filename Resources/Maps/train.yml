@@ -89253,18 +89253,6 @@ entities:
     - type: Transform
       pos: -7.5,-119.5
       parent: 2
-- proto: SpawnPointResearchAssistant
-  entities:
-  - uid: 13366
-    components:
-    - type: Transform
-      pos: -0.5,-312.5
-      parent: 2
-  - uid: 13367
-    components:
-    - type: Transform
-      pos: 1.5,-301.5
-      parent: 2
 - proto: SpawnPointResearchDirector
   entities:
   - uid: 13368

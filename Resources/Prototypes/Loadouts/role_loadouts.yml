@@ -267,16 +267,6 @@
   - Trinkets
   - GroupSpeciesBreathTool
 
-- type: roleLoadout
-  id: JobResearchAssistant
-  groups:
-  - GroupTankHarness
-  - ScientistBackpack
-  - Glasses
-  - Survival
-  - Trinkets
-  - GroupSpeciesBreathTool
-
 # Security
 - type: roleLoadout
   id: JobHeadOfSecurity

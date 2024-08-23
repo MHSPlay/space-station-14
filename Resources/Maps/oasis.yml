@@ -158337,18 +158337,6 @@ entities:
     - type: Transform
       pos: -45.5,-26.5
       parent: 2
-- proto: SpawnPointResearchAssistant
-  entities:
-  - uid: 20836
-    components:
-    - type: Transform
-      pos: 11.5,-44.5
-      parent: 2
-  - uid: 20837
-    components:
-    - type: Transform
-      pos: 10.5,-44.5
-      parent: 2
 - proto: SpawnPointResearchDirector
   entities:
   - uid: 20838

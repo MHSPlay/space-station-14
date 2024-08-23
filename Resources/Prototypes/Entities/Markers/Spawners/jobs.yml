@@ -102,18 +102,6 @@
       - state: security_cadet
 
 - type: entity
-  id: SpawnPointResearchAssistant
-  parent: SpawnPointJobBase
-  name: research assistant
-  components:
-  - type: SpawnPoint
-    job_id: ResearchAssistant
-  - type: Sprite
-    layers:
-      - state: green
-      - state: researchassistant
-
-- type: entity
   id: SpawnPointBartender
   parent: SpawnPointJobBase
   name: bartender

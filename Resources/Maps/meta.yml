@@ -136860,23 +136860,6 @@ entities:
     - type: Transform
       pos: -30.5,15.5
       parent: 5350
-- proto: SpawnPointResearchAssistant
-  entities:
-  - uid: 26544
-    components:
-    - type: Transform
-      pos: 23.5,-56.5
-      parent: 5350
-  - uid: 26545
-    components:
-    - type: Transform
-      pos: 24.5,-56.5
-      parent: 5350
-  - uid: 26635
-    components:
-    - type: Transform
-      pos: 25.5,-56.5
-      parent: 5350
 - proto: SpawnPointResearchDirector
   entities:
   - uid: 22494

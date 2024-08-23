@@ -159,14 +159,6 @@
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconResearchAssistant
-  icon:
-    sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: ResearchAssistant
-  jobName: job-name-research-assistant
-
-- type: jobIcon
-  parent: JobIcon
   id: JobIconGeneticist
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi

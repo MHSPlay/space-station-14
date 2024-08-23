@@ -156,21 +156,6 @@
 
 - type: entity
   parent: BasePDA
-  id: ResearchAssistantPDA
-  name: research assistant PDA
-  description: Why isn't it purple?
-  components:
-  - type: Pda
-    id: ResearchAssistantIDCard
-    state: pda-internsci
-  - type: PdaBorderColor
-    borderColor: "#717059"
-    accentVColor: "#8900c9"
-  - type: Icon
-    state: pda-internsci
-
-- type: entity
-  parent: BasePDA
   id: ChefPDA
   name: chef PDA
   description: Covered in grease and flour.

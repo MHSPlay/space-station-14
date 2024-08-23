@@ -118399,13 +118399,6 @@ entities:
     - type: Transform
       pos: -54.5,-28.5
       parent: 2
-- proto: SpawnPointResearchAssistant
-  entities:
-  - uid: 7448
-    components:
-    - type: Transform
-      pos: 70.5,-13.5
-      parent: 2
 - proto: SpawnPointResearchDirector
   entities:
   - uid: 7450

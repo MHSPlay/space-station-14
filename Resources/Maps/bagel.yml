@@ -128292,28 +128292,6 @@ entities:
     - type: Transform
       pos: 35.5,14.5
       parent: 60
-- proto: SpawnPointResearchAssistant
-  entities:
-  - uid: 17272
-    components:
-    - type: Transform
-      pos: -45.5,-8.5
-      parent: 60
-  - uid: 17275
-    components:
-    - type: Transform
-      pos: -45.5,-6.5
-      parent: 60
-  - uid: 17456
-    components:
-    - type: Transform
-      pos: -55.5,10.5
-      parent: 60
-  - uid: 17457
-    components:
-    - type: Transform
-      pos: -55.5,9.5
-      parent: 60
 - proto: SpawnPointResearchDirector
   entities:
   - uid: 5625

@@ -52,7 +52,6 @@
   components:
   - type: Loadout
     prototypes:
-    - ResearchAssistantGear
     - ScientistGear
 
 - type: entity
