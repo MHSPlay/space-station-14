@@ -17,11 +17,11 @@
 
 # Special options
 # Jamjar
-- type: loadout # FAIL: TestFailed idk why
+- type: loadout
   id: GlassesJamjar
-  effects:
-  - !type:GroupLoadoutEffect
-    proto: JamjarTimer
+#  effects:
+#  - !type:GroupLoadoutEffect
+#    proto: JamjarTimer
   equipment:
     eyes: ClothingEyesGlassesJamjar
 
