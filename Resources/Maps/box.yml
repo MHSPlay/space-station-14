@@ -142178,28 +142178,6 @@ entities:
     - type: Transform
       pos: 72.5,-27.5
       parent: 8364
-- proto: SpawnPointSecurityCadet
-  entities:
-  - uid: 9453
-    components:
-    - type: Transform
-      pos: 7.5,39.5
-      parent: 8364
-  - uid: 9454
-    components:
-    - type: Transform
-      pos: 7.5,38.5
-      parent: 8364
-  - uid: 11568
-    components:
-    - type: Transform
-      pos: 7.5,37.5
-      parent: 8364
-  - uid: 26603
-    components:
-    - type: Transform
-      pos: 7.5,40.5
-      parent: 8364
 - proto: SpawnPointSecurityOfficer
   entities:
   - uid: 8590

@@ -57967,18 +57967,6 @@ entities:
     - type: Transform
       pos: -13.5,-26.5
       parent: 31
-- proto: SpawnPointSecurityCadet
-  entities:
-  - uid: 9444
-    components:
-    - type: Transform
-      pos: -13.5,16.5
-      parent: 31
-  - uid: 10446
-    components:
-    - type: Transform
-      pos: -12.5,16.5
-      parent: 31
 - proto: SpawnPointSecurityOfficer
   entities:
   - uid: 501

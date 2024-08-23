@@ -75,7 +75,6 @@
   weight: 20
   roles:
   - HeadOfSecurity
-  - SecurityCadet
   - SecurityOfficer
   - Detective
   - Warden

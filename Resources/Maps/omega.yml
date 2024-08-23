@@ -66428,13 +66428,6 @@ entities:
     - type: Transform
       pos: 10.5,-20.5
       parent: 4812
-- proto: SpawnPointSecurityCadet
-  entities:
-  - uid: 8440
-    components:
-    - type: Transform
-      pos: -34.5,11.5
-      parent: 4812
 - proto: SpawnPointSecurityOfficer
   entities:
   - uid: 8441

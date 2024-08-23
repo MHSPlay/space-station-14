@@ -89299,18 +89299,6 @@ entities:
     - type: Transform
       pos: -7.5,-318.5
       parent: 2
-- proto: SpawnPointSecurityCadet
-  entities:
-  - uid: 13376
-    components:
-    - type: Transform
-      pos: -5.5,-337.5
-      parent: 2
-  - uid: 13377
-    components:
-    - type: Transform
-      pos: 2.5,-337.5
-      parent: 2
 - proto: SpawnPointSecurityOfficer
   entities:
   - uid: 13378

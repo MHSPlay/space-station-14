@@ -990,13 +990,6 @@
   - DetectiveCoat
 
 - type: loadoutGroup
-  id: SecurityCadetJumpsuit
-  name: loadout-group-security-cadet-jumpsuit
-  loadouts:
-  - RedJumpsuit
-  - RedJumpskirt
-
-- type: loadoutGroup
   id: SurvivalSecurity
   name: loadout-group-survival-security
   minLimit: 2

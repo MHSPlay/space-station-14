@@ -327,15 +327,6 @@
   - SecurityStar
   - GroupSpeciesBreathToolSecurity
 
-- type: roleLoadout
-  id: JobSecurityCadet
-  groups:
-  - SecurityCadetJumpsuit
-  - SecurityBackpack
-  - SurvivalSecurity
-  - Trinkets
-  - GroupSpeciesBreathToolSecurity
-
 # Medical
 - type: roleLoadout
   id: JobChiefMedicalOfficer

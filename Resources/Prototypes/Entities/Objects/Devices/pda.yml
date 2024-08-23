@@ -141,21 +141,6 @@
 
 - type: entity
   parent: BasePDA
-  id: SecurityCadetPDA
-  name: security cadet PDA
-  description: Why isn't it red?
-  components:
-  - type: Pda
-    id: SecurityCadetIDCard
-    state: pda-interncadet
-  - type: PdaBorderColor
-    borderColor: "#717059"
-    accentVColor: "#A32D26"
-  - type: Icon
-    state: pda-interncadet
-
-- type: entity
-  parent: BasePDA
   id: ChefPDA
   name: chef PDA
   description: Covered in grease and flour.

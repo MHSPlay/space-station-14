@@ -61,7 +61,6 @@
   components:
   - type: Loadout
     prototypes:
-    - SecurityCadetGear
     - SecurityOfficerGear
     - DetectiveGear
     - WardenGear

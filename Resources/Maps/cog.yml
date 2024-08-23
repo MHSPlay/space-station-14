@@ -150248,28 +150248,6 @@ entities:
     - type: Transform
       pos: -24.5,-30.5
       parent: 12
-- proto: SpawnPointSecurityCadet
-  entities:
-  - uid: 21618
-    components:
-    - type: Transform
-      pos: -37.5,36.5
-      parent: 12
-  - uid: 21619
-    components:
-    - type: Transform
-      pos: -33.5,37.5
-      parent: 12
-  - uid: 21620
-    components:
-    - type: Transform
-      pos: -36.5,39.5
-      parent: 12
-  - uid: 21621
-    components:
-    - type: Transform
-      pos: -43.5,38.5
-      parent: 12
 - proto: SpawnPointSecurityOfficer
   entities:
   - uid: 21622
