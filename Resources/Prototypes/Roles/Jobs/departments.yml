@@ -15,8 +15,25 @@
   color: "#9FED58"
   weight: -10
   roles:
-  - Bartender
+  - Passenger
+
+- type: department
+  id: Silicon
+  name: department-Silicon
+  description: department-Silicon-description
+  color: "#5DBDA0"
+  weight: 10
+  roles:
   - Borg
+
+- type: department
+  id: Service
+  name: department-Service
+  description: department-Service-description
+  color: "#9789DB"
+  weight: -10
+  roles:
+  - Bartender
   - Botanist
   - Chaplain
   - Chef
@@ -25,8 +42,8 @@
   - Janitor
   - Lawyer
   - Mime
-  - Passenger
   - Reporter
+  - Psychologist
 
 - type: department
   id: Command
@@ -64,7 +81,6 @@
   - Chemist
   - ChiefMedicalOfficer
   - MedicalDoctor
-  - Psychologist
   - Paramedic
 
 - type: department
@@ -87,14 +103,3 @@
   roles:
   - ResearchDirector
   - Scientist
-
-- type: department
-  id: Specific
-  name: department-Specific
-  description: department-Specific-description
-  color: "#9FED58"
-  weight: 10
-  roles:
-  - Reporter
-  - Psychologist
-  primary: false
