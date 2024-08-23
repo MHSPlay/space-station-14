@@ -138,18 +138,6 @@
       - state: researchassistant
 
 - type: entity
-  id: SpawnPointServiceWorker
-  parent: SpawnPointJobBase
-  name: service worker
-  components:
-  - type: SpawnPoint
-    job_id: ServiceWorker
-  - type: Sprite
-    layers:
-      - state: green
-      - state: serviceworker
-
-- type: entity
   id: SpawnPointBartender
   parent: SpawnPointJobBase
   name: bartender

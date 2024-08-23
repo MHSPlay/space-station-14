@@ -118473,28 +118473,6 @@ entities:
     - type: Transform
       pos: -7.5,33.5
       parent: 2
-- proto: SpawnPointServiceWorker
-  entities:
-  - uid: 2126
-    components:
-    - type: Transform
-      pos: -32.5,0.5
-      parent: 2
-  - uid: 2127
-    components:
-    - type: Transform
-      pos: -34.5,0.5
-      parent: 2
-  - uid: 2128
-    components:
-    - type: Transform
-      pos: -36.5,0.5
-      parent: 2
-  - uid: 2129
-    components:
-    - type: Transform
-      pos: -30.5,0.5
-      parent: 2
 - proto: SpawnPointStationEngineer
   entities:
   - uid: 2130

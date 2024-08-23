@@ -119,9 +119,6 @@
   id: JobSecurityOfficer
 
 - type: playTimeTracker
-  id: JobServiceWorker
-
-- type: playTimeTracker
   id: JobStationEngineer
 
 - type: playTimeTracker

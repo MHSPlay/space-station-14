@@ -150321,28 +150321,6 @@ entities:
     - type: Transform
       pos: -33.5,38.5
       parent: 12
-- proto: SpawnPointServiceWorker
-  entities:
-  - uid: 21627
-    components:
-    - type: Transform
-      pos: 19.5,42.5
-      parent: 12
-  - uid: 21628
-    components:
-    - type: Transform
-      pos: 24.5,42.5
-      parent: 12
-  - uid: 21629
-    components:
-    - type: Transform
-      pos: 36.5,50.5
-      parent: 12
-  - uid: 21630
-    components:
-    - type: Transform
-      pos: 36.5,56.5
-      parent: 12
 - proto: SpawnPointStationEngineer
   entities:
   - uid: 5497

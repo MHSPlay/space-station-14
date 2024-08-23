@@ -335,14 +335,6 @@
 
 - type: jobIcon
   parent: JobIcon
-  id: JobIconServiceWorker
-  icon:
-    sprite: /Textures/Interface/Misc/job_icons.rsi
-    state: ServiceWorker
-  jobName: job-name-serviceworker
-
-- type: jobIcon
-  parent: JobIcon
   id: JobIconSecurityCadet
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi

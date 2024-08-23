@@ -27,7 +27,6 @@
   - Mime
   - Passenger
   - Reporter
-  - ServiceWorker
 
 - type: department
   id: Command

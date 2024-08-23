@@ -204,21 +204,6 @@
 
 - type: entity
   parent: BasePDA
-  id: ServiceWorkerPDA
-  name: service worker PDA
-  description: Why isn't it gray?
-  components:
-  - type: Pda
-    id: ServiceWorkerIDCard
-    state: pda-internservice
-  - type: PdaBorderColor
-    borderColor: "#717059"
-    accentVColor: "#00cc35"
-  - type: Icon
-    state: pda-internservice
-
-- type: entity
-  parent: BasePDA
   id: ChefPDA
   name: chef PDA
   description: Covered in grease and flour.

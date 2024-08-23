@@ -56,17 +56,6 @@
   - GroupSpeciesBreathTool
 
 - type: roleLoadout
-  id: JobServiceWorker
-  groups:
-  - GroupTankHarness
-  - BartenderJumpsuit
-  - CommonBackpack
-  - Glasses
-  - Survival
-  - Trinkets
-  - GroupSpeciesBreathTool
-
-- type: roleLoadout
   id: JobChef
   groups:
   - GroupTankHarness

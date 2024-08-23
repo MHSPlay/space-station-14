@@ -66466,13 +66466,6 @@ entities:
     - type: Transform
       pos: -36.5,11.5
       parent: 4812
-- proto: SpawnPointServiceWorker
-  entities:
-  - uid: 12386
-    components:
-    - type: Transform
-      pos: 4.5,-0.5
-      parent: 4812
 - proto: SpawnPointStationEngineer
   entities:
   - uid: 10844

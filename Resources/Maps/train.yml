@@ -89357,23 +89357,6 @@ entities:
     - type: Transform
       pos: -0.5,-346.5
       parent: 2
-- proto: SpawnPointServiceWorker
-  entities:
-  - uid: 13382
-    components:
-    - type: Transform
-      pos: 4.5,-87.5
-      parent: 2
-  - uid: 13383
-    components:
-    - type: Transform
-      pos: -3.5,-62.5
-      parent: 2
-  - uid: 13384
-    components:
-    - type: Transform
-      pos: 15.5,-61.5
-      parent: 2
 - proto: SpawnPointStationEngineer
   entities:
   - uid: 13385
