@@ -1,8 +1,3 @@
-- files: ["arachnid.ogg", "arachnid_ask.ogg", "arachnid_exclaim.ogg"]
-  license: "CC-BY-4.0"
-  copyright: "Recorded by https://github.com/PixelTheKermit"
-  source: "https://github.com/space-wizards/space-station-14/pull/13945"
-
 - files: ["pai.ogg", "pai_ask.ogg", "pai_exclaim.ogg"]
   license: "CC-BY-3.0"
   copyright: "hubismal on GitHub"

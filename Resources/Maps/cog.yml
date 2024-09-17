@@ -132288,13 +132288,6 @@ entities:
     - type: Transform
       pos: -4.562684,53.551655
       parent: 12
-- proto: PlushieArachind
-  entities:
-  - uid: 724
-    components:
-    - type: Transform
-      pos: -56.5,-32.5
-      parent: 12
 - proto: PlushieAtmosian
   entities:
   - uid: 7169

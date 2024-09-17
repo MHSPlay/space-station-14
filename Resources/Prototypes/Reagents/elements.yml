@@ -63,20 +63,20 @@
       effects:
       - !type:HealthChange
         conditions:
-        - !type:OrganType
-          type: Arachnid
-          shouldHave: false
+        #- !type:OrganType
+        #  type: Arachnid
+        #  shouldHave: false
         damage:
           types:
             Poison: 0.1
-    Medicine:
-      effects:
-      - !type:ModifyBloodLevel
-        conditions:
-        - !type:OrganType
-          type: Arachnid
-          shouldHave: true
-        amount: 0.4
+    #Medicine:
+    #  effects:
+    #  - !type:ModifyBloodLevel
+    #    conditions:
+    #    - !type:OrganType
+    #      type: Arachnid
+    #      shouldHave: true
+    #    amount: 0.4
 
 - type: reagent
   id: Fluorine
@@ -153,20 +153,20 @@
       metabolismRate: 0.1
       effects:
       - !type:HealthChange
-        conditions:
-        - !type:OrganType
-          type: Arachnid
-          shouldHave: true
+        #conditions:
+        #- !type:OrganType
+        #  type: Arachnid
+        #  shouldHave: true
         damage:
           types:
             Poison: 0.1
     Medicine:
       effects:
       - !type:ModifyBloodLevel
-        conditions:
-        - !type:OrganType
-          type: Arachnid
-          shouldHave: false
+        #conditions:
+        #- !type:OrganType
+        #  type: Arachnid
+        #  shouldHave: false
         amount: 0.4
 
 - type: reagent

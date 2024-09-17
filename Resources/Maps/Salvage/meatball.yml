@@ -1062,36 +1062,6 @@ entities:
     - type: Transform
       pos: -0.5,0.5
       parent: 1
-- proto: OrganArachnidHeart
-  entities:
-  - uid: 162
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -4.0860615,-0.4613682
-      parent: 1
-- proto: OrganArachnidLungs
-  entities:
-  - uid: 161
-    components:
-    - type: Transform
-      pos: -0.08606136,4.757382
-      parent: 1
-- proto: OrganArachnidStomach
-  entities:
-  - uid: 157
-    components:
-    - type: Transform
-      pos: 4.3983135,-0.3207432
-      parent: 1
-- proto: OrganArachnidTongue
-  entities:
-  - uid: 164
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 3.3358135,-1.0707432
-      parent: 1
 - proto: OrganDwarfHeart
   entities:
   - uid: 167

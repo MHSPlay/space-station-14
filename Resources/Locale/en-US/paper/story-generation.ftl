@@ -88,12 +88,11 @@ story-gen-book-character31 = nuclear operative
 story-gen-book-character32 = Nar'Sie cultist
 story-gen-book-character33 = Ratvar cultist
 story-gen-book-character34 = greytider
-story-gen-book-character35 = arachnid
-story-gen-book-character36 = vox
-story-gen-book-character37 = dwarf
-story-gen-book-character38 = thief
-story-gen-book-character39 = wizard
-story-gen-book-character40 = slime
+story-gen-book-character35 = vox
+story-gen-book-character36 = dwarf
+story-gen-book-character37 = thief
+story-gen-book-character38 = wizard
+story-gen-book-character39 = slime
 
 story-gen-book-character-trait1 = stupid
 story-gen-book-character-trait2 = smart

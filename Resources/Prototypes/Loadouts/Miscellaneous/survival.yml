@@ -12,7 +12,6 @@
   effects:
   - !type:SpeciesLoadoutEffect
     species:
-    - Arachnid
     - Diona
     - Dwarf
     - Human

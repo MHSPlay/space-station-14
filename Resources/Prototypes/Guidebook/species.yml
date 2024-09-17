@@ -3,7 +3,6 @@
   name: guide-entry-species
   text: "/ServerInfo/Guidebook/Mobs/Species.xml"
   children:
-    - Arachnid
     - Diona
     - Dwarf
     - Human
@@ -11,11 +10,6 @@
     - Reptilian
     - SlimePerson
     - Vox
-
-- type: guideEntry
-  id: Arachnid
-  name: species-name-arachnid
-  text: "/ServerInfo/Guidebook/Mobs/Arachnid.xml"
 
 - type: guideEntry
   id: Diona

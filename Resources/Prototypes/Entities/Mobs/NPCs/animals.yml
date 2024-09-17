@@ -823,10 +823,10 @@
         - MobMask
         layer:
         - MobLayer
-  - type: Speech
-    speechVerb: Arachnid
-    speechSounds: Arachnid
-    allowedEmotes: ['Click', 'Chitter']
+  #- type: Speech
+  #  speechVerb: Arachnid
+  #  speechSounds: Arachnid
+  #  allowedEmotes: ['Click', 'Chitter']
   - type: DamageStateVisuals
     states:
       Alive:
@@ -842,8 +842,8 @@
     interactSuccessString: petting-success-crab
     interactFailureString: petting-failure-crab
     interactSuccessSpawn: EffectHearts
-    interactSuccessSound:
-      path: /Audio/Voice/Arachnid/arachnid_chitter.ogg
+    #interactSuccessSound:
+    #  path: /Audio/Voice/Arachnid/arachnid_chitter.ogg
   - type: ReplacementAccent
     accent: crab
   - type: Bloodstream
@@ -1688,7 +1688,7 @@
         name: food-sequence-content-rat
       skewer:
         name: food-sequence-content-rat
-        sprite: 
+        sprite:
           sprite: Objects/Consumable/Food/skewer.rsi
           state: skewer-rat
 
@@ -2294,15 +2294,15 @@
   - type: Bloodstream
     bloodMaxVolume: 150
     bloodReagent: CopperBlood
-  - type: Speech
-    speechVerb: Arachnid
-    speechSounds: Arachnid
-    allowedEmotes: ['Click', 'Chitter']
-  - type: Vocal
-    sounds:
-      Male: UnisexArachnid
-      Female: UnisexArachnid
-      Unsexed: UnisexArachnid
+  #- type: Speech
+  #  speechVerb: Arachnid
+  #  speechSounds: Arachnid
+  #  allowedEmotes: ['Click', 'Chitter']
+  #- type: Vocal
+  #  sounds:
+  #    Male: UnisexArachnid
+  #    Female: UnisexArachnid
+  #    Unsexed: UnisexArachnid
   - type: TypingIndicator
     proto: spider
   - type: Tag

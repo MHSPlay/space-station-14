@@ -79097,13 +79097,6 @@ entities:
     - type: Transform
       pos: 4.5,-217.5
       parent: 2
-- proto: PlushieArachind
-  entities:
-  - uid: 11658
-    components:
-    - type: Transform
-      pos: -0.6106252,-27.432035
-      parent: 2
 - proto: PlushieCarp
   entities:
   - uid: 11659

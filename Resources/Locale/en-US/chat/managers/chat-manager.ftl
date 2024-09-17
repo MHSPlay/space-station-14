@@ -73,11 +73,6 @@ chat-speech-verb-stutter = stutters
 chat-speech-verb-name-mumble = Mumbling
 chat-speech-verb-mumble = mumbles
 
-chat-speech-verb-name-arachnid = Arachnid
-chat-speech-verb-insect-1 = chitters
-chat-speech-verb-insect-2 = chirps
-chat-speech-verb-insect-3 = clicks
-
 chat-speech-verb-name-moth = Moth
 chat-speech-verb-winged-1 = flutters
 chat-speech-verb-winged-2 = flaps

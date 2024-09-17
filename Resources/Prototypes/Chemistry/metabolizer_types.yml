@@ -40,7 +40,3 @@
 - type: metabolizerType
   id: Moth
   name: metabolizer-type-moth
-
-- type: metabolizerType
-  id: Arachnid
-  name: metabolizer-type-arachnid

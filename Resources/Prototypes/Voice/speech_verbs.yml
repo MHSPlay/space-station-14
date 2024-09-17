@@ -37,15 +37,6 @@
   priority: 10
 
 - type: speechVerb
-  id: Arachnid
-  name: chat-speech-verb-name-arachnid
-  speechVerbStrings:
-  - chat-speech-verb-insect-1
-  - chat-speech-verb-insect-2
-  - chat-speech-verb-insect-3
-  - chat-speech-verb-reptilian-1
-
-- type: speechVerb
   id: Moth
   name: chat-speech-verb-name-moth
   speechVerbStrings:
