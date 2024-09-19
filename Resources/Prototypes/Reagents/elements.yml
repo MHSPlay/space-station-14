@@ -62,7 +62,7 @@
       metabolismRate: 0.1
       effects:
       - !type:HealthChange
-        conditions:
+        #conditions:
         #- !type:OrganType
         #  type: Arachnid
         #  shouldHave: false
