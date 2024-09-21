@@ -26,7 +26,7 @@ public abstract class SharedCursedMaskSystem : EntitySystem
         SubscribeLocalEvent<CursedMaskComponent, ClothingGotUnequippedEvent>(OnClothingUnequip);
         SubscribeLocalEvent<CursedMaskComponent, ExaminedEvent>(OnExamine);
 
-        SubscribeLocalEvent<CursedMaskComponent, InventoryRelayedEvent<RefreshMovementSpeedModifiersEvent>>(OnMovementSpeedModifier);
+        //SubscribeLocalEvent<CursedMaskComponent, InventoryRelayedEvent<RefreshMovementSpeedModifiersEvent>>(OnMovementSpeedModifier);
         SubscribeLocalEvent<CursedMaskComponent, InventoryRelayedEvent<DamageModifyEvent>>(OnModifyDamage);
     }
 
@@ -46,11 +46,11 @@ public abstract class SharedCursedMaskSystem : EntitySystem
         args.PushMarkup(Loc.GetString($"cursed-mask-examine-{ent.Comp.CurrentState.ToString()}"));
     }
 
-    private void OnMovementSpeedModifier(Entity<CursedMaskComponent> ent, ref InventoryRelayedEvent<RefreshMovementSpeedModifiersEvent> args)
-    {
-        if (ent.Comp.CurrentState == CursedMaskExpression.Joy)
-            args.Args.ModifySpeed(ent.Comp.JoySpeedModifier);
-    }
+    //private void OnMovementSpeedModifier(Entity<CursedMaskComponent> ent, ref InventoryRelayedEvent<RefreshMovementSpeedModifiersEvent> args)
+    //{
+    //    if (ent.Comp.CurrentState == CursedMaskExpression.Joy)
+    //        args.Args.ModifySpeed(ent.Comp.JoySpeedModifier);
+    //}
 
     private void OnModifyDamage(Entity<CursedMaskComponent> ent, ref InventoryRelayedEvent<DamageModifyEvent> args)
     {

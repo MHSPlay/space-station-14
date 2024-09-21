@@ -16,7 +16,11 @@ namespace Content.Shared.Movement.Systems
             if (_timing.ApplyingState)
                 return;
 
-            var ev = new RefreshMovementSpeedModifiersEvent();
+            var isImmune = false;
+            if (HasComp<SpeedModifierImmunityComponent>(uid))
+                isImmune = true;
+
+            var ev = new RefreshMovementSpeedModifiersEvent(isImmune);
             RaiseLocalEvent(uid, ev);
 
             if (MathHelper.CloseTo(ev.WalkSpeedModifier, move.WalkSpeedModifier) &&
@@ -64,15 +68,24 @@ namespace Content.Shared.Movement.Systems
         public float WalkSpeedModifier { get; private set; } = 1.0f;
         public float SprintSpeedModifier { get; private set; } = 1.0f;
 
-        public void ModifySpeed(float walk, float sprint)
+        /// <summary>
+        ///    Whether this entity is immune to most movement speed modifiers.
+        ///    Bypassable by setting bypassImmunity to true.
+        /// </summary
+        private bool IsImmune = false;
+
+        public void ModifySpeed(float walk, float sprint, bool bypassImmunity = false)
         {
+            if (IsImmune && !bypassImmunity)
+                return;
+
             WalkSpeedModifier *= walk;
             SprintSpeedModifier *= sprint;
         }
 
-        public void ModifySpeed(float mod)
+        public RefreshMovementSpeedModifiersEvent(bool isImmune = false)
         {
-            ModifySpeed(mod, mod);
+            IsImmune = isImmune;
         }
     }
 }
