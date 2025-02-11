@@ -16,11 +16,6 @@
 
 # Back
 - type: loadout
-  id: AtmosphericTechnicianBackpack
-  equipment:
-    back: ClothingBackpackAtmospherics
-
-- type: loadout
   id: AtmosphericTechnicianSatchel
   equipment:
     back: ClothingBackpackSatchelAtmospherics

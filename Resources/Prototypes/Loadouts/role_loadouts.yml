@@ -277,7 +277,7 @@
   groups:
   - GroupTankHarness
   - AtmosphericTechnicianJumpsuit
-  - AtmosphericTechnicianBackpack
+  - StationEngineerBackpack
   - AtmosphericTechnicianOuterClothing
   - AtmosphericTechnicianShoes
   - SurvivalExtended

@@ -790,14 +790,6 @@
   - AtmosphericTechnicianWintercoat
 
 - type: loadoutGroup
-  id: AtmosphericTechnicianBackpack
-  name: loadout-group-atmospheric-technician-backpack
-  loadouts:
-  - AtmosphericTechnicianBackpack
-  - AtmosphericTechnicianSatchel
-  - AtmosphericTechnicianDuffel
-
-- type: loadoutGroup
   id: AtmosphericTechnicianShoes
   name: loadout-group-atmospheric-technician-shoes
   loadouts:
