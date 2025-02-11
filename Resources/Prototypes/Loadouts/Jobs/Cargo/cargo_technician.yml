@@ -15,12 +15,6 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtCargo
 
-# Back
-- type: loadout
-  id: CargoTechnicianBackpack
-  equipment:
-    back: ClothingBackpackCargo
-
 - type: loadout
   id: CargoTechnicianSatchel
   equipment:

@@ -199,7 +199,7 @@
   - QuartermasterHead
   - QuartermasterNeck
   - QuartermasterJumpsuit
-  - CargoTechnicianBackpack
+  - CommonBackpack
   - QuartermasterOuterClothing
   - QuartermasterShoes
   - Glasses
@@ -213,7 +213,7 @@
   - GroupTankHarness
   - CargoTechnicianHead
   - CargoTechnicianJumpsuit
-  - CargoTechnicianBackpack
+  - CommonBackpack
   - CargoTechnicianOuterClothing
   - CargoTechnicianShoes
   - Glasses

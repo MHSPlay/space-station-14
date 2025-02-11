@@ -193,7 +193,7 @@
     head: ClothingHeadHatQMsoft
     neck: ClothingNeckCloakQm
     id: VisitorPDA
-    back: ClothingBackpackCargo
+    back: ClothingBackpack
     ears: ClothingHeadsetRD
     outerClothing: ClothingOuterWinterQM
     pocket1: WeaponDisabler
@@ -282,7 +282,7 @@
     outerClothing: ClothingOuterArmorBasicSlim
     pocket1: WeaponPistolMk58
     pocket2: MagazinePistol
-  inhand: 
+  inhand:
   - FlashlightSeclite
 
 - type: startingGear
@@ -369,7 +369,7 @@
     shoes: ClothingShoesColorBlack
     head: ClothingHeadHatCargosoft
     id: VisitorPDA
-    back: ClothingBackpackCargo
+    back: ClothingBackpack
     ears: ClothingHeadsetCargo
     pocket1: AppraisalTool
     pocket2: DrinkColaCan
@@ -859,7 +859,7 @@
     eyes: ClothingEyesHudMedical
     pocket1: RegenerativeMesh
     pocket2: PillCanisterBicaridine
-  inhand: 
+  inhand:
   - ScalpelAdvanced
   - MedicatedSuture
 
@@ -1589,7 +1589,7 @@
     shoes: ClothingShoesColorBlack
     head: ClothingHeadHatCargosoft
     id: VisitorPDA
-    back: ClothingBackpackCargo
+    back: ClothingBackpack
     #ears: null # No headsets.
     pocket1: AppraisalTool
 
@@ -1794,7 +1794,7 @@
     head: ClothingHeadHatQMsoft
     neck: ClothingNeckCloakQm
     id: VisitorPDA
-    back: ClothingBackpackCargo
+    back: ClothingBackpack
     #ears: # No headsets.
     outerClothing: ClothingOuterWinterQM
     pocket1: AppraisalTool

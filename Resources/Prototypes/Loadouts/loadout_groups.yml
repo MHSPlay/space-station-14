@@ -635,14 +635,6 @@
   - CargoTechnicianJumpskirt
 
 - type: loadoutGroup
-  id: CargoTechnicianBackpack
-  name: loadout-group-cargo-technician-backpack
-  loadouts:
-  - CargoTechnicianBackpack
-  - CargoTechnicianSatchel
-  - CargoTechnicianDuffel
-
-- type: loadoutGroup
   id: CargoTechnicianOuterClothing
   name: loadout-group-cargo-technician-outerclothing
   minLimit: 0
