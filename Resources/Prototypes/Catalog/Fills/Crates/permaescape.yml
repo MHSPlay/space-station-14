@@ -82,7 +82,7 @@
         prob: 0.25
       - id: OxygenTankFilled
         prob: 0.05
-        
+
 - type: entity
   id: CratePermaEscapeGun
   parent: CrateGenericSteel
@@ -306,8 +306,6 @@
         prob: 0.20
       - id: ClothingHandsMercGlovesCombat
         prob: 0.05
-      - id: ClothingBackpackMerc
-        prob: 0.50
       - id: ClothingShoesBootsMerc
         prob: 0.50
       - id: ClothingOuterVestWebMerc

@@ -2,7 +2,7 @@
   id: CluwneGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCluwne
-    back: ClothingBackpackCluwne
+    back: ClothingBackpackClown
     shoes: ClothingShoesCluwne
     mask: ClothingMaskCluwne
     id: CluwnePDA

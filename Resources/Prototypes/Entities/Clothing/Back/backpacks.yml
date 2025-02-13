@@ -44,18 +44,6 @@
       collection: BikeHorn
 
 - type: entity
-  parent: ClothingBackpack
-  id: ClothingBackpackIan
-  name: Ian's backpack
-  description: Sometimes he wears it.
-  components:
-  - type: Sprite
-    sprite: Clothing/Back/Backpacks/ian.rsi
-  - type: Storage
-    storageOpenSound:
-      collection: IanBark
-
-- type: entity
   parent: [ClothingBackpack, BaseRestrictedContraband]
   id: ClothingBackpackSecurity
   name: security backpack
@@ -153,15 +141,6 @@
   components:
     - type: Sprite
       sprite: Clothing/Back/Backpacks/salvage.rsi
-
-- type: entity
-  parent: ClothingBackpack
-  id: ClothingBackpackMerc
-  name: mercenary bag
-  description: A backpack that has been in many dangerous places, a reliable combat backpack.
-  components:
-    - type: Sprite
-      sprite: Clothing/Back/Backpacks/merc.rsi
 
 #ERT
 - type: entity
@@ -274,18 +253,6 @@
     maxItemSize: Huge
     grid:
     - 0,0,19,9
-
-- type: entity
-  parent: ClothingBackpackClown
-  id: ClothingBackpackCluwne
-  name: jiggles von jonkerton
-  suffix: Unremoveable
-  description: It's a backpack made by Jonk! Co.
-  components:
-  - type: Sprite
-    sprite: Clothing/Back/Backpacks/cluwne.rsi
-  - type: Unremoveable
-    deleteOnDrop: false
 
 - type: entity
   parent: ClothingBackpack

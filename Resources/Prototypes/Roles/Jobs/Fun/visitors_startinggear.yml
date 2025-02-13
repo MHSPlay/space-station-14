@@ -1885,7 +1885,6 @@
     shoes: ClothingShoesBootsMercFilled
     head: ClothingHeadHelmetMerc
     id: VisitorPDA
-    back: ClothingBackpackMerc
     belt: ClothingBeltMercWebbing
     ears: ClothingHeadsetGrey
     outerClothing: ClothingOuterVestWebMerc

@@ -40731,13 +40731,6 @@ entities:
     - type: Transform
       pos: -13.572019,38.72765
       parent: 2
-- proto: ClothingBackpackMerc
-  entities:
-  - uid: 14078
-    components:
-    - type: Transform
-      pos: -92.46855,73.53757
-      parent: 2
 - proto: ClothingBeltChampion
   entities:
   - uid: 6150
