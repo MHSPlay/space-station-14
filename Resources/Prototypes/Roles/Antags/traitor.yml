@@ -27,7 +27,7 @@
   id: SyndicateOperativeGearExtremelyBasic
   equipment:
     jumpsuit: ClothingUniformJumpsuitOperative
-    back: ClothingBackpackSyndicate
+    back: ClothingBackpack
     shoes: ClothingShoesBootsCombatFilled
     gloves: ClothingHandsGlovesColorBlack
   storage:
@@ -40,7 +40,7 @@
   id: SyndicateOperativeClothing
   equipment:
     jumpsuit: ClothingUniformJumpsuitOperative
-    back: ClothingBackpackSyndicate
+    back: ClothingBackpack
     shoes: ClothingShoesBootsSyndieFilled
     gloves: ClothingHandsGlovesColorBlack
 
