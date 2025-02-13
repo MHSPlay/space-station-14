@@ -26937,13 +26937,6 @@ entities:
     - type: Transform
       pos: -22.754051,9.462572
       parent: 31
-- proto: ClothingHeadHatBeretBrigmedic
-  entities:
-  - uid: 6607
-    components:
-    - type: Transform
-      pos: 14.371354,-5.1023016
-      parent: 31
 - proto: ClothingHeadHatBowlerHat
   entities:
   - uid: 9261

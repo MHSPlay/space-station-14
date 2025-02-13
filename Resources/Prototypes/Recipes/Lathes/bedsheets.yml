@@ -104,10 +104,5 @@
 
 - type: latheRecipe
   parent: BaseSpecifiedBedsheetRecipe
-  id: BedsheetBrigmedic
-  result: BedsheetBrigmedic
-
-- type: latheRecipe
-  parent: BaseSpecifiedBedsheetRecipe
   id: BedsheetSyndie
   result: BedsheetSyndie

@@ -1024,9 +1024,6 @@
       - ClothingHeadHatBeretSecurity
       - ClothingUniformJumpsuitSec
       - ClothingUniformJumpskirtSec
-      - ClothingHeadHatBeretBrigmedic
-      - ClothingUniformJumpsuitBrigmedic
-      - ClothingUniformJumpskirtBrigmedic
       - ClothingHeadHatBeretWarden
       - ClothingHeadHatWarden
       - ClothingUniformJumpsuitWarden
@@ -1102,7 +1099,6 @@
       - BedsheetMime
       - BedsheetNT
       - BedsheetRainbow
-      - BedsheetBrigmedic
   - type: EmagLatheRecipes
     emagStaticRecipes:
       # Clothing

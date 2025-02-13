@@ -26,9 +26,6 @@
       "name": "boxer"
     },
     {
-      "name": "brigmedic"
-    },
-    {
       "name": "captain"
     },
     {
@@ -170,7 +167,7 @@
       "name": "scientist"
     },
     {
-      "name": "security_cadet" 
+      "name": "security_cadet"
     },
     {
       "name": "security_officer"

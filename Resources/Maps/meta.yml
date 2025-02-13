@@ -22102,15 +22102,6 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -25.5,-25.5
       parent: 5350
-- proto: BedsheetBrigmedic
-  entities:
-  - uid: 1740
-    components:
-    - type: MetaData
-      desc: Defintely not a relabeled brigmedic bedsheet, nope.
-    - type: Transform
-      pos: -1.5,40.5
-      parent: 5350
 - proto: BedsheetCaptain
   entities:
   - uid: 1026
@@ -67369,13 +67360,6 @@ entities:
     components:
     - type: Transform
       pos: 20.52728,22.507175
-      parent: 5350
-- proto: ClothingHeadHatBeretBrigmedic
-  entities:
-  - uid: 10732
-    components:
-    - type: Transform
-      pos: -18.300854,27.927118
       parent: 5350
 - proto: ClothingHeadHatBeretWarden
   entities:

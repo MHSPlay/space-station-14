@@ -40980,13 +40980,6 @@ entities:
     - type: Physics
       canCollide: False
     - type: InsideEntityStorage
-- proto: ClothingHeadHatBeretBrigmedic
-  entities:
-  - uid: 15864
-    components:
-    - type: Transform
-      pos: -13.101215,38.58796
-      parent: 2
 - proto: ClothingHeadHatBeretFrench
   entities:
   - uid: 4726
@@ -41523,13 +41516,6 @@ entities:
     - type: Transform
       pos: -64.48061,-0.4007933
       parent: 2
-- proto: ClothingUniformJumpskirtBrigmedic
-  entities:
-  - uid: 5017
-    components:
-    - type: Transform
-      pos: -12.719768,38.530075
-      parent: 2
 - proto: ClothingUniformJumpskirtSyndieFormalDress
   entities:
   - uid: 1125
@@ -41539,13 +41525,6 @@ entities:
     - type: Physics
       canCollide: False
     - type: InsideEntityStorage
-- proto: ClothingUniformJumpsuitBrigmedic
-  entities:
-  - uid: 5018
-    components:
-    - type: Transform
-      pos: -12.297893,38.553513
-      parent: 2
 - proto: ClothingUniformJumpsuitChef
   entities:
   - uid: 14565

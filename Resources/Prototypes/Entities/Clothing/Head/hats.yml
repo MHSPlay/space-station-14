@@ -171,17 +171,6 @@
     sprite: Clothing/Head/Hats/beret_physician.rsi
 
 - type: entity
-  parent: ClothingHeadBase
-  id: ClothingHeadHatBeretBrigmedic
-  name: brigmedical beret
-  description: White beret, looks like a cream pie on the head.
-  components:
-  - type: Sprite
-    sprite: Clothing/Head/Hats/beret_brigmedic.rsi
-  - type: Clothing
-    sprite: Clothing/Head/Hats/beret_brigmedic.rsi
-
-- type: entity
   parent: [ ClothingHeadBase ]
   id: ClothingHeadHatBeretMerc
   name: mercenary beret
