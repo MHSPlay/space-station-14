@@ -2724,13 +2724,6 @@ entities:
       rot: 1.5707963267948966 rad
       pos: -5.5,-11.5
       parent: 1
-- proto: ClothingBackpackWaterTank
-  entities:
-  - uid: 334
-    components:
-    - type: Transform
-      pos: 2.4940953,-10.527685
-      parent: 1
 - proto: ClothingBeltUtilityEngineering
   entities:
   - uid: 961

@@ -108,67 +108,67 @@
     components:
     - type: BibleUser #Lets them heal with bibles
 
-- type: startingGear
-  id: ERTChaplainGear
-  equipment:
-    jumpsuit: ClothingUniformJumpsuitERTChaplain
-    back: ClothingBackpackERTChaplain
-    shoes: ClothingShoesLeather
-    head: ClothingHeadHatFez
-    eyes: ClothingEyesGlasses
-    neck: ClothingNeckStoleChaplain
-    gloves: ClothingHandsGlovesCombat
-    outerClothing: ClothingOuterArmorBasicSlim
-    id: ERTChaplainPDA
-    ears: ClothingHeadsetAltCentCom
-    belt: ClothingBeltStorageWaistbag
-    pocket1: Flare
-    pocket2: DrinkWaterBottleFull
-  storage:
-    back:
-    - BoxCandle
-    - BoxBodyBag
-    - DrinkWaterMelonJuiceJug
-    - Lantern
-    - Lantern
-    - Bible
-    - CrowbarRed
-    - FoodBakedBunHotX
-    - FoodBakedBunHotX
-    - FoodBakedBunHotX
-    - FoodBakedBunHotX
-    - Lighter
+#- type: startingGear
+#  id: ERTChaplainGear
+#  equipment:
+#    jumpsuit: ClothingUniformJumpsuitERTChaplain
+#    back: ClothingBackpackERTChaplain
+#    shoes: ClothingShoesLeather
+#    head: ClothingHeadHatFez
+#    eyes: ClothingEyesGlasses
+#    neck: ClothingNeckStoleChaplain
+#    gloves: ClothingHandsGlovesCombat
+#    outerClothing: ClothingOuterArmorBasicSlim
+#    id: ERTChaplainPDA
+#    ears: ClothingHeadsetAltCentCom
+#    belt: ClothingBeltStorageWaistbag
+#    pocket1: Flare
+#    pocket2: DrinkWaterBottleFull
+#  storage:
+#    back:
+#    - BoxCandle
+#    - BoxBodyBag
+#    - DrinkWaterMelonJuiceJug
+#    - Lantern
+#    - Lantern
+#    - Bible
+#    - CrowbarRed
+#    - FoodBakedBunHotX
+#    - FoodBakedBunHotX
+#    - FoodBakedBunHotX
+#    - FoodBakedBunHotX
+#    - Lighter
 
-- type: startingGear
-  id: ERTChaplainGearEVA
-  equipment:
-    jumpsuit: ClothingUniformJumpsuitERTChaplain
-    back: ClothingBackpackERTChaplain
-    shoes: ClothingShoesBootsMagAdv
-    mask: ClothingMaskGasERT
-    eyes: ClothingEyesGlasses
-    neck: ClothingNeckStoleChaplain
-    gloves: ClothingHandsGlovesCombat
-    outerClothing: ClothingOuterHardsuitERTChaplain
-    id: ERTChaplainPDA
-    ears: ClothingHeadsetAltCentCom
-    belt: ClothingBeltStorageWaistbag
-    pocket1: Flare
-    pocket2: DrinkWaterBottleFull
-  storage:
-    back:
-    - BoxCandle
-    - BoxBodyBag
-    - DrinkWaterMelonJuiceJug
-    - Lantern
-    - Lantern
-    - Bible
-    - CrowbarRed
-    - FoodBakedBunHotX
-    - FoodBakedBunHotX
-    - FoodBakedBunHotX
-    - FoodBakedBunHotX
-    - Lighter
+#- type: startingGear
+#  id: ERTChaplainGearEVA
+#  equipment:
+#    jumpsuit: ClothingUniformJumpsuitERTChaplain
+#    back: ClothingBackpackERTChaplain
+#    shoes: ClothingShoesBootsMagAdv
+#    mask: ClothingMaskGasERT
+#    eyes: ClothingEyesGlasses
+#    neck: ClothingNeckStoleChaplain
+#    gloves: ClothingHandsGlovesCombat
+#    outerClothing: ClothingOuterHardsuitERTChaplain
+#    id: ERTChaplainPDA
+#    ears: ClothingHeadsetAltCentCom
+#    belt: ClothingBeltStorageWaistbag
+#    pocket1: Flare
+#    pocket2: DrinkWaterBottleFull
+#  storage:
+#    back:
+#    - BoxCandle
+#    - BoxBodyBag
+#    - DrinkWaterMelonJuiceJug
+#    - Lantern
+#    - Lantern
+#    - Bible
+#    - CrowbarRed
+#    - FoodBakedBunHotX
+#    - FoodBakedBunHotX
+#    - FoodBakedBunHotX
+#    - FoodBakedBunHotX
+#    - Lighter
 
 # Engineer
 - type: job

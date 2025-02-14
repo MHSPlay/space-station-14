@@ -188,7 +188,6 @@
   cost: 10000
   recipeUnlocks:
   - WeaponSprayNozzle
-  - ClothingBackpackWaterTank
 
 - type: technology
   id: BluespaceCargoTransport

@@ -10280,15 +10280,6 @@ entities:
     - type: Transform
       pos: 0.5,-12.5
       parent: 104
-- proto: ClothingBackpackWaterTank
-  entities:
-  - uid: 151
-    components:
-    - type: Transform
-      pos: 9.36168,-4.462339
-      parent: 104
-    - type: SolutionAmmoProvider
-      maxShots: 200
 - proto: ClothingBeltUtilityFilled
   entities:
   - uid: 212

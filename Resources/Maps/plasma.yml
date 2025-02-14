@@ -64772,15 +64772,6 @@ entities:
     - type: Transform
       pos: -34.523182,-37.31406
       parent: 2
-- proto: ClothingBackpackWaterTank
-  entities:
-  - uid: 3370
-    components:
-    - type: Transform
-      parent: 3368
-    - type: Physics
-      canCollide: False
-    - type: InsideEntityStorage
 - proto: ClothingBeltUtilityEngineering
   entities:
   - uid: 13538
