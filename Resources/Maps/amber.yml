@@ -62811,39 +62811,6 @@ entities:
     - type: Transform
       pos: 52.586926,-35.256138
       parent: 2
-- proto: ClothingBackpackDuffelAtmospherics
-  entities:
-  - uid: 2267
-    components:
-    - type: Transform
-      pos: 12.441172,-10.7048235
-      parent: 2
-    - type: GroupExamine
-      group:
-      - hoverMessage: ""
-        contextText: verb-examine-group-other
-        icon: /Textures/Interface/examine-star.png
-        components:
-        - Armor
-        - ClothingSpeedModifier
-        entries:
-        - message: >-
-            It provides the following protection:
-
-            - [color=orange]Explosion[/color] damage [color=white]to contents[/color] reduced by [color=lightblue]10%[/color].
-          priority: 0
-          component: Armor
-        - message: This decreases your running speed by [color=yellow]10%[/color].
-          priority: 0
-          component: ClothingSpeedModifier
-        title: null
-- proto: ClothingBackpackDuffelCargo
-  entities:
-  - uid: 979
-    components:
-    - type: Transform
-      pos: 0.116775274,20.693357
-      parent: 2
 - proto: ClothingBackpackDuffelSurgeryFilled
   entities:
   - uid: 14163

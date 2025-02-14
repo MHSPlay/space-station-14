@@ -503,7 +503,6 @@
   loadouts:
   - MimeBackpack
   - MimeSatchel
-  - MimeDuffel
 
 - type: loadoutGroup
   id: MimeOuterClothing

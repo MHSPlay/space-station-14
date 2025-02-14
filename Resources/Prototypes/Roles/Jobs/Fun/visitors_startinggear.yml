@@ -383,7 +383,6 @@
     shoes: ClothingShoesBootsWinterCargo
     head: ClothingHeadHatCargosoft
     id: VisitorPDA
-    back: ClothingBackpackDuffelCargo
     ears: ClothingHeadsetCargo
     pocket1: AppraisalTool
     pocket2: SpaceCash500

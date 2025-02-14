@@ -2896,13 +2896,6 @@ entities:
     - type: Transform
       pos: 16.5,-0.5
       parent: 1
-- proto: ClothingBackpackDuffelMime
-  entities:
-  - uid: 84
-    components:
-    - type: Transform
-      pos: 12.491305,12.519769
-      parent: 1
 - proto: ComputerBroken
   entities:
   - uid: 11

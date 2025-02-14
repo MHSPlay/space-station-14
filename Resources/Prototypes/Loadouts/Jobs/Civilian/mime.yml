@@ -52,11 +52,6 @@
   equipment:
     back: ClothingBackpackSatchelMime
 
-- type: loadout
-  id: MimeDuffel
-  equipment:
-    back: ClothingBackpackDuffelMime
-
 # Outerclothing
 - type: loadout
   id: MimeWintercoat

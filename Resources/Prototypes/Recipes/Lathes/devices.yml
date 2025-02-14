@@ -134,11 +134,6 @@
 
 - type: latheRecipe
   parent: ClothingBackpackHolding
-  id: ClothingBackpackDuffelHolding
-  result: ClothingBackpackDuffelHolding
-
-- type: latheRecipe
-  parent: ClothingBackpackHolding
   id: OreBagOfHolding
   result: OreBagOfHolding
 

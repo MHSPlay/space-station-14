@@ -538,13 +538,6 @@ entities:
     - canCollide: False
       type: Physics
     - type: InsideEntityStorage
-- proto: ClothingBackpackDuffelCargo
-  entities:
-  - uid: 288
-    components:
-    - pos: 17.527935,7.630492
-      parent: 1653
-      type: Transform
 - proto: ClothingHeadHatFlowerCrown
   entities:
   - uid: 233

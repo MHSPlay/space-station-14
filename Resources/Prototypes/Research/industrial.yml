@@ -195,7 +195,6 @@
   recipeUnlocks:
   - ClothingBackpackHolding
   - ClothingBackpackSatchelHolding
-  - ClothingBackpackDuffelHolding
 
 - type: technology
   id: PortableFission

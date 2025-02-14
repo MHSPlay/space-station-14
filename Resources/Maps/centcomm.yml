@@ -18008,13 +18008,6 @@ entities:
     - type: Transform
       pos: 14.5,19.5
       parent: 1668
-- proto: ClothingBackpackDuffelCargo
-  entities:
-  - uid: 6932
-    components:
-    - type: Transform
-      pos: -5.4863143,25.64425
-      parent: 1668
 - proto: ClothingBackpackERTSecurity
   entities:
   - uid: 2901
