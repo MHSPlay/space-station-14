@@ -433,7 +433,6 @@
     gloves: ClothingHandsGlovesFingerlessInsulated
     head: ClothingHeadHelmetFire
     id: VisitorPDA
-    back: ClothingBackpackDuffelAtmospherics
     ears: ClothingHeadsetEngineering
     eyes: ClothingEyesGlassesMeson
     outerClothing: ClothingOuterSuitAtmosFire

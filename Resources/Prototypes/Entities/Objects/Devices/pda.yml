@@ -1086,15 +1086,15 @@
       - LogProbeCartridge
       - AstroNavCartridge
 
-- type: entity
-  parent: ERTLeaderPDA
-  id: ERTChaplainPDA
-  name: ERT Chaplain PDA
-  suffix: Chaplain
-  description: Red for firepower, it's blessed.
-  components:
-  - type: Pda
-    id: ERTChaplainIDCard
+#- type: entity
+#  parent: ERTLeaderPDA
+#  id: ERTChaplainPDA
+#  name: ERT Chaplain PDA
+#  suffix: Chaplain
+#  description: Red for firepower, it's blessed.
+#  components:
+#  - type: Pda
+#    id: ERTChaplainIDCard
 
 - type: entity
   parent: ERTLeaderPDA

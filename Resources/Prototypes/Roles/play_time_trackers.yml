@@ -46,8 +46,8 @@
 - type: playTimeTracker
   id: JobDetective
 
-- type: playTimeTracker
-  id: JobERTChaplain
+#- type: playTimeTracker
+#  id: JobERTChaplain
 
 - type: playTimeTracker
   id: JobERTEngineer

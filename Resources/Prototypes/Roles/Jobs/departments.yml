@@ -42,7 +42,7 @@
   - CentralCommandOfficial
   - CBURN
   - ERTLeader
-  - ERTChaplain
+#  - ERTChaplain
   - ERTJanitor
   - ERTMedical
   - ERTSecurity
@@ -67,7 +67,7 @@
   - CentralCommandOfficial
   - CBURN
   - ERTLeader
-  - ERTChaplain
+#  - ERTChaplain
   - ERTJanitor
   - ERTMedical
   - ERTSecurity

@@ -481,19 +481,19 @@
   - type: Item
     heldPrefix: gold
 
-- type: entity
-  parent: IDCardStandard
-  id: ERTChaplainIDCard
-  name: ERT chaplain ID card
-  components:
-  - type: Sprite
-    layers:
-    - state: gold
-    - state: ert_chaplain # we have the sprite for the id but dont have chaplain ERT equipment for now.
-  - type: PresetIdCard
-    job: ERTChaplain
-  - type: Item
-    heldPrefix: blue
+#- type: entity
+#  parent: IDCardStandard
+#  id: ERTChaplainIDCard
+#  name: ERT chaplain ID card
+#  components:
+#  - type: Sprite
+#    layers:
+#    - state: gold
+#    - state: ert_chaplain # we have the sprite for the id but dont have chaplain ERT equipment for now.
+#  - type: PresetIdCard
+#    job: ERTChaplain
+#  - type: Item
+#    heldPrefix: blue
 
 - type: entity
   parent: IDCardStandard

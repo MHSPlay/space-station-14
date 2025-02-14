@@ -89,24 +89,24 @@
     - MagazineMagnum
 
 # Chaplain
-- type: job
-  id: ERTChaplain
-  name: job-name-ertchaplain
-  description: job-description-ertchaplain
-  playTimeTracker: JobERTChaplain
-  setPreference: false
-  startingGear: ERTChaplainGear
-  icon: "JobIconNanotrasen"
-  supervisors: job-supervisors-centcom
-  canBeAntag: false
-  accessGroups:
-  - AllAccess
-  access:
-  - CentralCommand
-  special:
-  - !type:AddComponentSpecial
-    components:
-    - type: BibleUser #Lets them heal with bibles
+#- type: job
+#  id: ERTChaplain
+#  name: job-name-ertchaplain
+#  description: job-description-ertchaplain
+#  playTimeTracker: JobERTChaplain
+#  setPreference: false
+#  startingGear: ERTChaplainGear
+#  icon: "JobIconNanotrasen"
+#  supervisors: job-supervisors-centcom
+#  canBeAntag: false
+#  accessGroups:
+#  - AllAccess
+#  access:
+#  - CentralCommand
+#  special:
+#  - !type:AddComponentSpecial
+#    components:
+#    - type: BibleUser #Lets them heal with bibles
 
 #- type: startingGear
 #  id: ERTChaplainGear
